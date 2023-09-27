@@ -1,16 +1,16 @@
 <?php
-// Heading
-$_['heading_title']     = 'Shipping';
+// Заголовок
+$_['heading_title']     = 'Способи доставки';
 
-// Text
-$_['text_success']      = 'Success: You have modified shipping!';
-$_['text_list']         = 'Shipping List';
+// Текст
+$_['text_success']      = 'Успіх: Ви змінили налаштування доставки!';
+$_['text_list']         = 'Список способів доставки';
 
-// Column
-$_['column_name']       = 'Shipping Method';
-$_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+// Колонки
+$_['column_name']       = 'Спосіб доставки';
+$_['column_status']     = 'Статус';
+$_['column_sort_order'] = 'Порядок сортування';
+$_['column_action']     = 'Дія';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify shipping!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну способів доставки!';

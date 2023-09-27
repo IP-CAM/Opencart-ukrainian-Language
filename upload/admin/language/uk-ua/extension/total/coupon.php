@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Coupon';
+// Заголовок
+$_['heading_title']    = 'Купон';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified coupon total!';
-$_['text_edit']        = 'Edit Coupon';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успішно: Ви внесли зміни до купона!';
+$_['text_edit']        = 'Редагувати Купон';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Вхідні дані
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify coupon total!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну купона!';

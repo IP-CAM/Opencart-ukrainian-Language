@@ -1,29 +1,29 @@
 <?php
-// Heading
-$_['heading_title']         = 'Customer Reward Points Report';
+// Заголовок
+$_['heading_title']         = 'Звіт про бонусні бали клієнта';
 
-// Text
-$_['text_extension']        = 'Extensions';
-$_['text_edit']             = 'Edit Customer Reward Points Report';
-$_['text_success']          = 'Success: You have modified customer reward points report!';
-$_['text_filter']           = 'Filter';
+// Текст
+$_['text_extension']        = 'Розширення';
+$_['text_edit']             = 'Редагувати звіт про бонусні бали клієнта';
+$_['text_success']          = 'Успіх: Ви змінили звіт про бонусні бали клієнта!';
+$_['text_filter']           = 'Фільтр';
 
-// Column
-$_['column_customer']       = 'Customer Name';
-$_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_status']         = 'Status';
-$_['column_points']         = 'Reward Points';
-$_['column_orders']         = 'No. Orders';
-$_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+// Колонки
+$_['column_customer']       = 'Ім\'я клієнта';
+$_['column_email']          = 'Електронна пошта';
+$_['column_customer_group'] = 'Група клієнтів';
+$_['column_status']         = 'Статус';
+$_['column_points']         = 'Бонусні бали';
+$_['column_orders']         = 'Кількість замовлень';
+$_['column_total']          = 'Загальна сума';
+$_['column_action']         = 'Дія';
 
-// Entry
-$_['entry_date_start']      = 'Date Start';
-$_['entry_date_end']        = 'Date End';
-$_['entry_customer']        = 'Customer';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+// Вхідні дані
+$_['entry_date_start']      = 'Дата початку';
+$_['entry_date_end']        = 'Дата завершення';
+$_['entry_customer']        = 'Клієнт';
+$_['entry_status']          = 'Статус';
+$_['entry_sort_order']      = 'Порядок сортування';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customer reward points report!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну звіту про бонусні бали клієнта!';

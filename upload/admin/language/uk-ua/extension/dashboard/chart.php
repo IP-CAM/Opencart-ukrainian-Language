@@ -1,22 +1,22 @@
 <?php
-// Heading
-$_['heading_title']    = 'Sales Analytics';
+// Заголовок
+$_['heading_title']    = 'Аналітика продажів';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard chart!';
-$_['text_edit']        = 'Edit Dashboard Chart';
-$_['text_order']       = 'Orders';
-$_['text_customer']    = 'Customers';
-$_['text_day']         = 'Today';
-$_['text_week']        = 'Week';
-$_['text_month']       = 'Month';
-$_['text_year']        = 'Year';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: ви внесли зміни до графіка на панелі інструментів!';
+$_['text_edit']        = 'Редагувати графік на панелі інструментів';
+$_['text_order']       = 'Замовлення';
+$_['text_customer']    = 'Клієнти';
+$_['text_day']         = 'Сьогодні';
+$_['text_week']        = 'Тиждень';
+$_['text_month']       = 'Місяць';
+$_['text_year']        = 'Рік';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+// Введення
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
+$_['entry_width']      = 'Ширина';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard chart!';
+// Помилка
+$_['error_permission'] = 'Попередження: у вас немає дозволу на зміну графіка на панелі інструментів!';

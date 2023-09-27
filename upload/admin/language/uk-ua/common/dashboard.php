@@ -1,6 +1,6 @@
 <?php
-// Heading
-$_['heading_title'] = 'Dashboard';
+// Заголовок
+$_['heading_title'] = 'Панель управління';
 
-// Error
-$_['error_install'] = 'Warning: Install folder still exists and should be deleted for security reasons!';
+// Помилка
+$_['error_install'] = 'Попередження: Папка Install все ще існує і повинна бути видалена з міркувань безпеки!';

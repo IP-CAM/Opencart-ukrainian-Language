@@ -1,24 +1,24 @@
 <?php
-// Heading
-$_['heading_title']    = 'Modules';
+// Заголовок
+$_['heading_title']    = 'Модулі';
 
-// Text
-$_['text_success']     = 'Success: You have modified modules!';
-$_['text_layout']      = 'After you have installed and configured a module you can add it to a layout <a href="%s" class="alert-link">here</a>!';
-$_['text_add']         = 'Add Module';
-$_['text_list']        = 'Module List';
+// Текст
+$_['text_success']     = 'Успіх: Ви змінили модулі!';
+$_['text_layout']      = 'Після встановлення і налаштування модуля, ви можете додати його до макету <a href="%s" class="alert-link">тут</a>!';
+$_['text_add']         = 'Додати модуль';
+$_['text_list']        = 'Список модулів';
 
-// Column
-$_['column_name']      = 'Module Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_name']      = 'Назва модуля';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Дія';
 
-// Entry
-$_['entry_code']       = 'Module';
-$_['entry_name']       = 'Module Name';
+// Вхідні дані
+$_['entry_code']       = 'Модуль';
+$_['entry_name']       = 'Назва модуля';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify modules!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_code_name']  = 'Module Code must be between 3 and 32 characters!';
-$_['error_code']       = 'Extension required!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модулів!';
+$_['error_name']       = 'Назва модуля повинна бути від 3 до 64 символів!';
+$_['error_code_name']  = 'Код модуля повинен бути від 3 до 32 символів!';
+$_['error_code']       = 'Розширення обов\'язкове!';

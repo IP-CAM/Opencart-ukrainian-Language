@@ -1,17 +1,16 @@
 <?php
-// Heading
-$_['heading_title']     = 'Payments';
+// Заголовок
+$_['heading_title']     = 'Способи оплати';
 
-// Text
-$_['text_success']      = 'Success: You have modified payments!';
-$_['text_list']         = 'Payment List';
+// Текст
+$_['text_success']      = 'Успіх: Ви змінили спосіб оплати!';
+$_['text_list']         = 'Список способів оплати';
 
+// Колонки
+$_['column_name']       = 'Спосіб оплати';
+$_['column_status']     = 'Статус';
+$_['column_sort_order'] = 'Порядок сортування';
+$_['column_action']     = 'Дія';
 
-// Column
-$_['column_name']       = 'Payment Method';
-$_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
-
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify payments!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну способів оплати!';

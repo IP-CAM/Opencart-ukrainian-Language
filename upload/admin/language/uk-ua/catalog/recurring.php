@@ -1,42 +1,42 @@
 <?php
-// Heading
-$_['heading_title']         = 'Recurring Profiles';
+// Заголовок
+$_['heading_title']         = 'Повторювані профілі';
 
-// Text
-$_['text_success']          = 'Success: You have modified recurring profiles!';
-$_['text_list']             = 'Recurring Profile List';
-$_['text_add']              = 'Add Recurring Profile';
-$_['text_edit']             = 'Edit Recurring Profile';
-$_['text_day']              = 'Day';
-$_['text_week']             = 'Week';
-$_['text_semi_month']       = 'Semi Month';
-$_['text_month']            = 'Month';
-$_['text_year']             = 'Year';
-$_['text_recurring']        = '<p><i class="fa fa-info-circle"></i> Recurring amounts are calculated by the frequency and cycles.</p><p>For example if you use a frequency of "week" and a cycle of "2", then the user will be billed every 2 weeks.</p><p>The duration is the number of times the user will make a payment, set this to 0 if you want payments until they are cancelled.</p>';
-$_['text_profile']          = 'Recurring Profile';
-$_['text_trial']            = 'Trial Profile';
+// Текст
+$_['text_success']          = 'Успішно: ви внесли зміни у повторювані профілі!';
+$_['text_list']             = 'Список повторюваних профілів';
+$_['text_add']              = 'Додати повторюваний профіль';
+$_['text_edit']             = 'Редагувати повторюваний профіль';
+$_['text_day']              = 'День';
+$_['text_week']             = 'Тиждень';
+$_['text_semi_month']       = 'Півмісяця';
+$_['text_month']            = 'Місяць';
+$_['text_year']             = 'Рік';
+$_['text_recurring']        = '<p><i class="fa fa-info-circle"></i> Суми повторюваних платежів розраховуються на підставі частоти і циклів.</p><p>Наприклад, якщо ви встановите частоту "тиждень" і цикл "2", то користувач буде сплачувати кожні 2 тижні.</p><p>Тривалість - це кількість разів, скільки користувач здійснить платіж. Встановіть це значення на 0, якщо ви хочете платежів до скасування.</p>';
+$_['text_profile']          = 'Повторюваний профіль';
+$_['text_trial']            = 'Пробний профіль';
 
-// Entry
-$_['entry_name']            = 'Name';
-$_['entry_price']           = 'Price';
-$_['entry_duration']        = 'Duration';
-$_['entry_cycle']           = 'Cycle';
-$_['entry_frequency']       = 'Frequency';
-$_['entry_trial_price']     = 'Trial price';
-$_['entry_trial_duration']  = 'Trial duration';
-$_['entry_trial_status']    = 'Trial status';
-$_['entry_trial_cycle']     = 'Trial cycle';
-$_['entry_trial_frequency'] = 'Trial frequency';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+// Введення
+$_['entry_name']            = 'Назва';
+$_['entry_price']           = 'Ціна';
+$_['entry_duration']        = 'Тривалість';
+$_['entry_cycle']           = 'Цикл';
+$_['entry_frequency']       = 'Частота';
+$_['entry_trial_price']     = 'Ціна пробного періоду';
+$_['entry_trial_duration']  = 'Тривалість пробного періоду';
+$_['entry_trial_status']    = 'Статус пробного періоду';
+$_['entry_trial_cycle']     = 'Цикл пробного періоду';
+$_['entry_trial_frequency'] = 'Частота пробного періоду';
+$_['entry_status']          = 'Статус';
+$_['entry_sort_order']      = 'Порядок сортування';
 
-// Column
-$_['column_name']           = 'Name';
-$_['column_sort_order']     = 'Sort Order';
-$_['column_action']         = 'Action';
+// Колонка
+$_['column_name']           = 'Назва';
+$_['column_sort_order']     = 'Порядок сортування';
+$_['column_action']         = 'Дія';
 
-// Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']      = 'Warning: You do not have permission to modify recurring profiles!';
-$_['error_name']            = 'Profile Name must be greater than 3 and less than 255 characters!';
-$_['error_product']         = 'Warning: This recurring profile cannot be deleted as it is currently assigned to %s products!';
+// Помилки
+$_['error_warning']         = 'Попередження: Будь ласка, перевірте форму на наявність помилок!';
+$_['error_permission']      = 'Попередження: У вас немає дозволу на зміну повторюваних профілів!';
+$_['error_name']            = 'Назва профілю повинна бути більше 3 і менше 255 символів!';
+$_['error_product']         = 'Попередження: Цей повторюваний профіль не може бути видалений, оскільки він в даний час призначений для %s товарів!';

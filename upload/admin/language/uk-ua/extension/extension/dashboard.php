@@ -1,17 +1,17 @@
 <?php
-// Heading
-$_['heading_title']     = 'Dashboard';
+// Заголовок
+$_['heading_title']     = 'Панель управління';
 
-// Text
-$_['text_success']      = 'Success: You have modified dashboards!';
-$_['text_list']         = 'Dashboard List';
+// Текст
+$_['text_success']      = 'Успішно: Ви змінили налаштування панелей управління!';
+$_['text_list']         = 'Список панелей управління';
 
-// Column
-$_['column_name']       = 'Dashboard Name';
-$_['column_width']      = 'Width';
-$_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+// Колонки
+$_['column_name']       = 'Назва панелі управління';
+$_['column_width']      = 'Ширина';
+$_['column_status']     = 'Статус';
+$_['column_sort_order'] = 'Порядок сортування';
+$_['column_action']     = 'Дія';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify dashboards!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну налаштувань панелей управління!';

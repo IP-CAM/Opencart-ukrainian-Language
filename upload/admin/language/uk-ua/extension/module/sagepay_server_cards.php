@@ -1,13 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Sagepay Server Card Management';
+// Заголовок
+$_['heading_title']    = 'Управління карткою Sagepay Server';
 
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Sagepay Server Card Management module!';
-$_['text_edit']        = 'Edit Sagepay Server Card Management Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль управління карткою Sagepay Server!';
+$_['text_edit']        = 'Редагувати модуль управління карткою Sagepay Server';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Sagepay Server Card Management module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля управління карткою Sagepay Server!';

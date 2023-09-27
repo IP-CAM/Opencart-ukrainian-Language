@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Account';
+// Заголовок
+$_['heading_title'] = 'Особистий кабінет';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified account module!';
-$_['text_edit']        = 'Edit Account Module';
+// Текст
+$_['text_extension'] = 'Розширення';
+$_['text_success'] = 'Успіх: ви змінили модуль особистого кабінету!';
+$_['text_edit'] = 'Редагувати модуль особистого кабінету';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status'] = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify account module!';
+// Помилка
+$_['error_permission'] = 'Попередження: у вас немає дозволу на зміну модуля особистого кабінету!';

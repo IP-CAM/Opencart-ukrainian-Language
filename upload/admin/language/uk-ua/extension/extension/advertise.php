@@ -1,17 +1,14 @@
 <?php
+// Заголовок
+$_['heading_title'] = "Реклама";
 
-// Heading
-$_['heading_title'] = "Advertising";
+// Колонки
+$_['column_name']   = "Назва реклами";
+$_['column_status'] = "Статус";
+$_['column_action'] = "Дія";
 
+// Текст
+$_['text_success']   = "<strong>Успіх:</strong> Ви внесли зміни до реклами!";
 
-// Columns
-$_['column_name']   = "Advertising Name";
-$_['column_status'] = "Status";
-$_['column_action'] = "Action";
-
-
-// Text
-$_['text_success']   = "<strong>Success:</strong> You have modified advertising!";
-
-// Error
-$_['error_adblock'] = "It looks like you are using an ad blocker. In order to use this Advertising section, please disable your ad blocker for your OpenCart admin panel.";
+// Помилка
+$_['error_adblock'] = "Здається, ви використовуєте блокувальник реклами. Для використання цього розділу Реклами, будь ласка, вимкніть блокувальник реклами для панелі адміністратора OpenCart.";

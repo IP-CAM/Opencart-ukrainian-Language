@@ -1,26 +1,26 @@
 <?php
-// Heading
-$_['heading_title']    = 'Marketing Report';
+// Заголовок
+$_['heading_title']    = 'Звіт по маркетингу';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_edit']        = 'Edit Marketing Report';
-$_['text_success']     = 'Success: You have modified marketing report!';
-$_['text_filter']      = 'Filter';
-$_['text_all_status']  = 'All Statuses';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_edit']        = 'Редагувати звіт по маркетингу';
+$_['text_success']     = 'Успішно: Ви змінили звіт по маркетингу!';
+$_['text_filter']      = 'Фільтр';
+$_['text_all_status']  = 'Усі статуси';
 
-// Column
-$_['column_campaign']  = 'Campaign Name';
-$_['column_code']      = 'Code';
-$_['column_clicks']    = 'Clicks';
-$_['column_orders']    = 'No. Orders';
-$_['column_total']     = 'Total';
+// Колонки
+$_['column_campaign']  = 'Назва кампанії';
+$_['column_code']      = 'Код';
+$_['column_clicks']    = 'Кліки';
+$_['column_orders']    = 'Кількість замовлень';
+$_['column_total']     = 'Всього';
 
-// Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end']   = 'Date End';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Вхідні дані
+$_['entry_date_start'] = 'Дата початку';
+$_['entry_date_end']   = 'Дата завершення';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify marketing report!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну звіту по маркетингу!';

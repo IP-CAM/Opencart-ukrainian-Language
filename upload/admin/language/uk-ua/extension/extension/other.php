@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']     = 'Other';
+// Заголовок
+$_['heading_title']     = 'Інші';
 
-// Text
-$_['text_success']      = 'Success: You have modified other extension!';
-$_['text_list']         = 'Other List';
+// Текст
+$_['text_success']      = 'Успіх: Ви змінили інший розширення!';
+$_['text_list']         = 'Список інших розширень';
 
-// Column
-$_['column_name']       = 'Other';
-$_['column_status']     = 'Status';
-$_['column_action']     = 'Action';
+// Колонки
+$_['column_name']       = 'Інше';
+$_['column_status']     = 'Статус';
+$_['column_action']     = 'Дія';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify other extension!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну інших розширень!';

@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']  = 'Reset your password';
+// Заголовок
+$_['heading_title']  = 'Скидання пароля';
 
-// Text
-$_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+// Текст
+$_['text_password']  = 'Введіть новий пароль, який ви хочете використовувати.';
+$_['text_success']   = 'Успіх: Ваш пароль був успішно оновлений.';
 
-// Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Confirm';
+// Поле для введення
+$_['entry_password'] = 'Пароль';
+$_['entry_confirm']  = 'Підтвердити';
 
-// Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password and password confirmation do not match!';
+// Помилки
+$_['error_password'] = 'Пароль повинен містити від 4 до 20 символів!';
+$_['error_confirm']  = 'Пароль і підтвердження пароля не співпадають!';

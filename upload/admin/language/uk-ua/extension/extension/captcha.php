@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Captchas';
+// Заголовок
+$_['heading_title']    = 'Капчі';
 
-// Text
-$_['text_success']     = 'Success: You have modified captchas!';
-$_['text_list']        = 'Captcha List';
+// Текст
+$_['text_success']     = 'Успішно: Ви змінили налаштування капчі!';
+$_['text_list']        = 'Список капчі';
 
-// Column
-$_['column_name']      = 'Captcha Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_name']      = 'Назва капчі';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Дія';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify captchas!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну налаштувань капчі!';

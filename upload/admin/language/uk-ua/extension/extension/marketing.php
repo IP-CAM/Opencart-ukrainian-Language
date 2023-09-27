@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Marketing';
+// Заголовок
+$_['heading_title']    = 'Маркетинг';
 
-// Text
-$_['text_success']     = 'Success: You have modified marketing!';
-$_['text_list']        = 'Analytics List';
+// Текст
+$_['text_success']     = 'Успішно: Ви змінили маркетинг!';
+$_['text_list']        = 'Список маркетингу';
 
-// Column
-$_['column_name']      = 'Marketing Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_name']      = 'Назва маркетингу';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Дія';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify marketing!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну маркетингу!';

@@ -1,67 +1,67 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title']    					= 'PayPal Smart Button';
 
-// Text
-$_['text_extensions']   				= 'Extensions';
-$_['text_edit']        					= 'Edit PayPal Smart Button Module';
-$_['text_general']				 	 	= 'General';
-$_['text_product_page']					= 'Product Page';
-$_['text_cart_page']					= 'Cart Page';
-$_['text_insert_prepend']				= 'Insert Into Begin';
-$_['text_insert_append']				= 'Insert Into End';
-$_['text_insert_before']				= 'Insert Before';
-$_['text_insert_after']					= 'Insert After';
-$_['text_align_left']					= 'Align Left';
-$_['text_align_center']					= 'Align Center';
-$_['text_align_right']					= 'Align Right';
-$_['text_small']			 			= 'Small';
-$_['text_medium']			 	 		= 'Medium';
-$_['text_large']			 	 		= 'Large';
-$_['text_responsive']			 	 	= 'Responsive';
-$_['text_gold']			 	 			= 'Gold';
-$_['text_blue']			 	 			= 'Blue';
-$_['text_silver']			 	 		= 'Silver';
-$_['text_white']			 	 		= 'White';
-$_['text_black']			 	 		= 'Black';
-$_['text_pill']			 	 			= 'Pill';
-$_['text_rect']			 	 			= 'Rect';
-$_['text_checkout']			 	 		= 'Checkout';
-$_['text_pay']			 	 			= 'Pay';
-$_['text_buy_now']			 	 		= 'Buy Now';
+// Текст
+$_['text_extensions']   				= 'Розширення';
+$_['text_edit']        					= 'Редагувати модуль PayPal Smart Button';
+$_['text_general']				 	 	= 'Загальне';
+$_['text_product_page']					= 'Сторінка товару';
+$_['text_cart_page']					= 'Сторінка кошика';
+$_['text_insert_prepend']				= 'Вставити на початок';
+$_['text_insert_append']				= 'Вставити в кінець';
+$_['text_insert_before']				= 'Вставити перед';
+$_['text_insert_after']					= 'Вставити після';
+$_['text_align_left']					= 'Вирівняти зліва';
+$_['text_align_center']					= 'Вирівняти по центру';
+$_['text_align_right']					= 'Вирівняти справа';
+$_['text_small']			 			= 'Малий';
+$_['text_medium']			 	 		= 'Середній';
+$_['text_large']			 	 		= 'Великий';
+$_['text_responsive']			 	 	= 'Адаптивний';
+$_['text_gold']			 	 			= 'Золотий';
+$_['text_blue']			 	 			= 'Синій';
+$_['text_silver']			 	 		= 'Срібний';
+$_['text_white']			 	 		= 'Білий';
+$_['text_black']			 	 		= 'Чорний';
+$_['text_pill']			 	 			= 'Овальний';
+$_['text_rect']			 	 			= 'Прямокутний';
+$_['text_checkout']			 	 		= 'Оформити замовлення';
+$_['text_pay']			 	 			= 'Сплатити';
+$_['text_buy_now']			 	 		= 'Купити зараз';
 $_['text_pay_pal']			 	 		= 'PayPal';
-$_['text_installment']			 	 	= 'Installment';
-$_['text_text']							= 'Text Message';
-$_['text_flex']							= 'Flexible Banner';
-$_['text_yes']			 	 			= 'Yes';
-$_['text_no']			 	 			= 'No';
+$_['text_installment']			 	 	= 'Розстрочка';
+$_['text_text']							= 'Текстове повідомлення';
+$_['text_flex']							= 'Гнучкий банер';
+$_['text_yes']			 	 			= 'Так';
+$_['text_no']			 	 			= 'Ні';
 
-// Entry
-$_['entry_status']     					= 'Status';
-$_['entry_product_page_status']     	= 'Product Page Status';
-$_['entry_cart_page_status']     		= 'Cart Page Status';
-$_['entry_insert_tag']     				= 'Insert Tag';
-$_['entry_insert_type']     			= 'Insert Type';
-$_['entry_button_align']     			= 'Button Align';
-$_['entry_button_size'] 				= 'Button Size';
-$_['entry_button_color'] 				= 'Button Color';
-$_['entry_button_shape'] 				= 'Button Shape';
-$_['entry_button_label'] 				= 'Button Label';
-$_['entry_button_tagline'] 				= 'Button Tagline';
-$_['entry_message_status']     			= 'Pay Later Message';
-$_['entry_message_align']     			= 'Message Align';
-$_['entry_message_size'] 				= 'Message Size';
-$_['entry_message_layout'] 				= 'Message Layout';
-$_['entry_message_text_color'] 			= 'Message Text Color';
-$_['entry_message_text_size'] 			= 'Message Text Size';
-$_['entry_message_flex_color'] 			= 'Message Banner Color';
-$_['entry_message_flex_ratio'] 			= 'Message Banner Ratio';
+// Поле введення
+$_['entry_status']     					= 'Статус';
+$_['entry_product_page_status']     	= 'Статус на сторінці товару';
+$_['entry_cart_page_status']     		= 'Статус на сторінці кошика';
+$_['entry_insert_tag']     				= 'Вставити тег';
+$_['entry_insert_type']     			= 'Тип вставки';
+$_['entry_button_align']     			= 'Вирівнювання кнопки';
+$_['entry_button_size'] 				= 'Розмір кнопки';
+$_['entry_button_color'] 				= 'Колір кнопки';
+$_['entry_button_shape'] 				= 'Форма кнопки';
+$_['entry_button_label'] 				= 'Мітка кнопки';
+$_['entry_button_tagline'] 				= 'Слоган кнопки';
+$_['entry_message_status']     			= 'Повідомлення "Платити пізніше"';
+$_['entry_message_align']     			= 'Вирівнювання повідомлення';
+$_['entry_message_size'] 				= 'Розмір повідомлення';
+$_['entry_message_layout'] 				= 'Макет повідомлення';
+$_['entry_message_text_color'] 			= 'Колір тексту повідомлення';
+$_['entry_message_text_size'] 			= 'Розмір тексту повідомлення';
+$_['entry_message_flex_color'] 			= 'Колір банера повідомлення';
+$_['entry_message_flex_ratio'] 			= 'Співвідношення розмірів банера повідомлення';
 
-// Help
-$_['help_message_status']				= 'Add pay later messaging to your site.';
+// Допомога
+$_['help_message_status']				= 'Додайте повідомлення "Платити пізніше" на свій сайт.';
 
-// Success
-$_['success_save']						= 'Success: You have modified PayPal Smart Button module!';
+// Успіх
+$_['success_save']						= 'Успіх: Ви змінили модуль PayPal Smart Button!';
 
-// Error
-$_['error_permission'] 					= 'Warning: You do not have permission to modify PayPal Express Checkout Button module!';
+// Помилка
+$_['error_permission'] 					= 'Попередження: У вас немає дозволу на зміну модуля PayPal Smart Button!';

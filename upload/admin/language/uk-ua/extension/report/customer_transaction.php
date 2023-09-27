@@ -1,27 +1,27 @@
 <?php
-// Heading
-$_['heading_title']         = 'Customer Transaction Report';
+// Заголовок
+$_['heading_title']         = 'Звіт про операції клієнта';
 
-// Column
-$_['text_extension']        = 'Extensions';
-$_['text_edit']             = 'Edit Customer Transaction Report';
-$_['text_success']          = 'Success: You have modified customer credit report!';
-$_['text_filter']           = 'Filter';
+// Колонки
+$_['text_extension']        = 'Розширення';
+$_['text_edit']             = 'Редагувати звіт про операції клієнта';
+$_['text_success']          = 'Успіх: Ви змінили звіт про кредит клієнта!';
+$_['text_filter']           = 'Фільтр';
 
-// Column
-$_['column_customer']       = 'Customer Name';
+// Колонки
+$_['column_customer']       = 'Ім\'я клієнта';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_status']         = 'Status';
-$_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_customer_group'] = 'Група клієнта';
+$_['column_status']         = 'Статус';
+$_['column_total']          = 'Загальна сума';
+$_['column_action']         = 'Дія';
 
-// Entry
-$_['entry_date_start']      = 'Date Start';
-$_['entry_date_end']        = 'Date End';
-$_['entry_customer']        = 'Customer';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+// Вхідні дані
+$_['entry_date_start']      = 'Дата початку';
+$_['entry_date_end']        = 'Дата завершення';
+$_['entry_customer']        = 'Клієнт';
+$_['entry_status']          = 'Статус';
+$_['entry_sort_order']      = 'Порядок сортування';
 
-// Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer credit report!';
+// Помилка
+$_['error_permission']      = 'Попередження: У вас немає дозволу на зміну звіту про кредит клієнта!';

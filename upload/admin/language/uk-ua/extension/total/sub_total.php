@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Sub-Total';
+// Заголовок
+$_['heading_title']    = 'Проміжний підсумок';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified sub-total total!';
-$_['text_edit']        = 'Edit Sub-Total Total';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успішно: Ви внесли зміни до проміжного підсумку!';
+$_['text_edit']        = 'Редагувати Проміжний підсумок';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Вхідні дані
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify sub-total total!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну проміжного підсумку!';

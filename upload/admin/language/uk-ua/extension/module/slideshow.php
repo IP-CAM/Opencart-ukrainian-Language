@@ -1,21 +1,21 @@
 <?php
-// Heading
-$_['heading_title']    = 'Slideshow';
+// Заголовок
+$_['heading_title']    = 'Слайдшоу';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified slideshow module!';
-$_['text_edit']        = 'Edit Slideshow Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль слайдшоу!';
+$_['text_edit']        = 'Редагувати модуль слайдшоу';
 
-// Entry
-$_['entry_name']       = 'Module Name';
-$_['entry_banner']     = 'Banner';
-$_['entry_width']      = 'Width';
-$_['entry_height']     = 'Height';
-$_['entry_status']     = 'Status';
+// Вхідні дані
+$_['entry_name']       = 'Назва модуля';
+$_['entry_banner']     = 'Баннер';
+$_['entry_width']      = 'Ширина';
+$_['entry_height']     = 'Висота';
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify slideshow module!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_width']      = 'Width required!';
-$_['error_height']     = 'Height required!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля слайдшоу!';
+$_['error_name']       = 'Назва модуля повинна містити від 3 до 64 символів!';
+$_['error_width']      = 'Поле "Ширина" обов\'язкове для заповнення!';
+$_['error_height']     = 'Поле "Висота" обов\'язкове для заповнення!';

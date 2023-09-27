@@ -1,21 +1,21 @@
 <?php
-// Heading
-$_['heading_title']    = 'Handling Fee';
+// Заголовок
+$_['heading_title']    = 'Оплата обробки';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified handling fee total!';
-$_['text_edit']        = 'Edit Handling Fee Total';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успішно: Ви внесли зміни до вартості оплати обробки!';
+$_['text_edit']        = 'Редагувати Вартість оплати обробки';
 
-// Entry
-$_['entry_total']      = 'Order Total';
-$_['entry_fee']        = 'Fee';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Вхідні дані
+$_['entry_total']      = 'Загальна сума замовлення';
+$_['entry_fee']        = 'Вартість';
+$_['entry_tax_class']  = 'Клас податку';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-// Help
-$_['help_total']       = 'The checkout total the order must reach before this order total becomes active.';
+// Допомога
+$_['help_total']       = 'Загальна сума замовлення, яку повинно досягти замовлення, перш ніж ця загальна сума стане активною.';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify handling fee total!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну вартості оплати обробки!';

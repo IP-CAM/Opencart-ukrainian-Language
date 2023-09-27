@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Anti-Fraud';
+// Заголовок
+$_['heading_title']    = 'Антифрод';
 
-// Text
-$_['text_success']     = 'Success: You have modified anti-fraud!';
-$_['text_list']        = 'Anti-Fraud List';
+// Текст
+$_['text_success']     = 'Успішно: Ви змінили налаштування антифроду!';
+$_['text_list']        = 'Список антифроду';
 
-// Column
-$_['column_name']      = 'Anti-Fraud Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_name']      = 'Назва антифроду';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Дія';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify anti-fraud!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну налаштувань антифроду!';

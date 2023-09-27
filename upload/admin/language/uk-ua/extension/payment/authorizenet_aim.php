@@ -1,34 +1,34 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title']         = 'Authorize.Net (AIM)';
 
-// Text
-$_['text_extension']        = 'Extensions';
-$_['text_success']          = 'Success: You have modified Authorize.Net (AIM) account details!';
-$_['text_edit']             = 'Edit Authorize.Net (AIM)';
-$_['text_test']             = 'Test';
-$_['text_live']             = 'Live';
-$_['text_authorization']    = 'Authorization';
-$_['text_capture']          = 'Capture';
+// Текст
+$_['text_extension']        = 'Розширення';
+$_['text_success']          = 'Успіх: ви змінили дані облікового запису Authorize.Net (AIM)!';
+$_['text_edit']             = 'Редагувати Authorize.Net (AIM)';
+$_['text_test']             = 'Тест';
+$_['text_live']             = 'Живий';
+$_['text_authorization']    = 'Авторизація';
+$_['text_capture']          = 'Захоплення';
 $_['text_authorizenet_aim'] = '<a href="https://account.authorize.net/signUpNow?resellerID=26357" target="_BLANK"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
 
-// Entry
-$_['entry_login']           = 'Login ID';
-$_['entry_key']             = 'Transaction Key';
-$_['entry_hash']            = 'MD5 Hash';
-$_['entry_server']          = 'Transaction Server';
-$_['entry_mode']            = 'Transaction Mode';
-$_['entry_method']          = 'Transaction Method';
-$_['entry_total']           = 'Total';
-$_['entry_order_status']    = 'Order Status';
-$_['entry_geo_zone']        = 'Geo Zone';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
+// Вхід
+$_['entry_login']           = 'ID входу';
+$_['entry_key']             = 'Ключ транзакції';
+$_['entry_hash']            = 'MD5-хеш';
+$_['entry_server']          = 'Сервер транзакцій';
+$_['entry_mode']            = 'Режим транзакції';
+$_['entry_method']          = 'Метод транзакції';
+$_['entry_total']           = 'Загальна сума';
+$_['entry_order_status']    = 'Статус замовлення';
+$_['entry_geo_zone']        = 'Географічна зона';
+$_['entry_status']          = 'Статус';
+$_['entry_sort_order']      = 'Порядок сортування';
 
-// Help
-$_['help_total']            = 'The checkout total the order must reach before this payment method becomes active.';
+// Допомога
+$_['help_total']            = 'Загальна сума замовлення, яку повинен досягти замовлення перед активацією цього методу оплати.';
 
-// Error
-$_['error_permission']      = 'Warning: You do not have permission to modify payment Authorize.Net (SIM)!';
-$_['error_login']           = 'Login ID Required!';
-$_['error_key']             = 'Transaction Key Required!';
+// Помилка
+$_['error_permission']      = 'Попередження: у вас немає прав на зміну оплати Authorize.Net (AIM)!';
+$_['error_login']           = 'Потрібний ID входу!';
+$_['error_key']             = 'Потрібен ключ транзакції!';

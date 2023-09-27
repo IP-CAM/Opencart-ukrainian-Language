@@ -1,28 +1,28 @@
 <?php
-// Heading
-$_['heading_title']     = 'Products Purchased Report';
+// Заголовок
+$_['heading_title']     = 'Звіт про куплені товари';
 
-// Text
-$_['text_extension']    = 'Extensions';
-$_['text_edit']         = 'Edit Products Purchased Report';
-$_['text_success']      = 'Success: You have modified products purchased report!';
-$_['text_filter']       = 'Filter';
-$_['text_all_status']   = 'All Statuses';
+// Текст
+$_['text_extension']    = 'Розширення';
+$_['text_edit']         = 'Редагувати звіт про куплені товари';
+$_['text_success']      = 'Успішно: Ви змінили звіт про куплені товари!';
+$_['text_filter']       = 'Фільтр';
+$_['text_all_status']   = 'Усі статуси';
 
-// Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_name']       = 'Product Name';
-$_['column_model']      = 'Model';
-$_['column_quantity']   = 'Quantity';
-$_['column_total']      = 'Total';
+// Колонки
+$_['column_date_start'] = 'Дата початку';
+$_['column_date_end']   = 'Дата завершення';
+$_['column_name']       = 'Назва товару';
+$_['column_model']      = 'Модель';
+$_['column_quantity']   = 'Кількість';
+$_['column_total']      = 'Всього';
 
-// Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
-$_['entry_status']      = 'Order Status';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+// Вхідні дані
+$_['entry_date_start']  = 'Дата початку';
+$_['entry_date_end']    = 'Дата завершення';
+$_['entry_status']      = 'Статус замовлення';
+$_['entry_status']      = 'Статус';
+$_['entry_sort_order']  = 'Порядок сортування';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify products purchased report!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну звіту про куплені товари!';

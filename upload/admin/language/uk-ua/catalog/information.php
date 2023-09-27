@@ -1,46 +1,46 @@
 <?php
-// Heading
-$_['heading_title']          = 'Information';
+// Заголовок
+$_['heading_title']          = 'Інформаційні сторінки';
 
-// Text
-$_['text_success']           = 'Success: You have modified information!';
-$_['text_list']              = 'Information List';
-$_['text_add']               = 'Add Information';
-$_['text_edit']              = 'Edit Information';
-$_['text_default']           = 'Default';
-$_['text_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+// Текст
+$_['text_success']           = 'Успішно: ви внесли зміни у розділ інформаційних сторінок!';
+$_['text_list']              = 'Список інформаційних сторінок';
+$_['text_add']               = 'Додати інформаційну сторінку';
+$_['text_edit']              = 'Редагувати інформаційну сторінку';
+$_['text_default']           = 'За замовчуванням';
+$_['text_keyword']           = 'Не використовуйте пробіли, замість них використовуйте - і переконайтеся, що SEO URL є унікальним в глобальному контексті.';
 
-// Column
-$_['column_title']           = 'Information Title';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+// Колонка
+$_['column_title']           = 'Заголовок інформаційної сторінки';
+$_['column_sort_order']      = 'Порядок сортування';
+$_['column_action']          = 'Дія';
 
-// Entry
-$_['entry_title']            = 'Information Title';
-$_['entry_description']      = 'Description';
-$_['entry_meta_title']       = 'Meta Tag Title';
-$_['entry_meta_keyword']     = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_store']            = 'Stores';
-$_['entry_keyword']          = 'Keyword';
-$_['entry_bottom']           = 'Bottom';
-$_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_layout']           = 'Layout Override';
+// Введення
+$_['entry_title']            = 'Заголовок інформаційної сторінки';
+$_['entry_description']      = 'Опис';
+$_['entry_meta_title']       = 'Мета-тег Title';
+$_['entry_meta_keyword']     = 'Мета-тег Keywords';
+$_['entry_meta_description'] = 'Мета-тег Description';
+$_['entry_store']            = 'Магазини';
+$_['entry_keyword']          = 'SEO URL';
+$_['entry_bottom']           = 'Нижнє меню';
+$_['entry_status']           = 'Статус';
+$_['entry_sort_order']       = 'Порядок сортування';
+$_['entry_layout']           = 'Перевизначення макету';
 
-// Help
-$_['help_bottom']            = 'Display in the bottom footer.';
+// Допомога
+$_['help_bottom']            = 'Показувати у нижньому меню.';
 
-// Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify information!';
-$_['error_title']            = 'Information Title must be between 1 and 64 characters!';
-$_['error_description']      = 'Description must be more than 3 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 1 and less than 255 characters!';
-$_['error_keyword']          = 'SEO URL already in use!';
-$_['error_unique']           = 'SEO URL must be unique!';
-$_['error_account']          = 'Warning: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']         = 'Warning: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']        = 'Warning: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_return']           = 'Warning: This information page cannot be deleted as it is currently assigned as the store return terms!';
-$_['error_store']            = 'Warning: This information page cannot be deleted as it is currently used by %s stores!';
+// Помилки
+$_['error_warning']          = 'Попередження: Будь ласка, перевірте форму на наявність помилок!';
+$_['error_permission']       = 'Попередження: У вас немає дозволу на зміну інформаційних сторінок!';
+$_['error_title']            = 'Заголовок інформаційної сторінки повинен бути від 1 до 64 символів!';
+$_['error_description']      = 'Опис повинен містити більше 3 символів!';
+$_['error_meta_title']       = 'Мета-заголовок повинен містити від 1 до 255 символів!';
+$_['error_keyword']          = 'SEO URL вже використовується!';
+$_['error_unique']           = 'SEO URL повинен бути унікальним!';
+$_['error_account']          = 'Попередження: цю інформаційну сторінку не можна видалити, оскільки вона наразі призначена як умови облікового запису магазину!';
+$_['error_checkout']         = 'Попередження: цю інформаційну сторінку не можна видалити, оскільки вона наразі призначена як умови оформлення замовлення магазину!';
+$_['error_affiliate']        = 'Попередження: цю інформаційну сторінку не можна видалити, оскільки вона наразі призначена як умови афіліатської програми магазину!';
+$_['error_return']           = 'Попередження: цю інформаційну сторінку не можна видалити, оскільки вона наразі призначена як умови повернення магазину!';
+$_['error_store']            = 'Попередження: цю інформаційну сторінку не можна видалити, оскільки вона використовується %s магазинами!';

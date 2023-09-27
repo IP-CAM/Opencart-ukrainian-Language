@@ -1,33 +1,33 @@
 <?php
-// Heading
-$_['heading_title']     = 'Manufacturers';
+// Заголовок
+$_['heading_title']     = 'Виробники';
 
-// Text
-$_['text_success']      = 'Success: You have modified manufacturers!';
-$_['text_list']         = 'Manufacturer List';
-$_['text_add']          = 'Add Manufacturer';
-$_['text_edit']         = 'Edit Manufacturer';
-$_['text_default']      = 'Default';
-$_['text_percent']      = 'Percentage';
-$_['text_amount']       = 'Fixed Amount';
-$_['text_keyword']      = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+// Текст
+$_['text_success']      = 'Успішно: ви внесли зміни у виробників!';
+$_['text_list']         = 'Список виробників';
+$_['text_add']          = 'Додати виробника';
+$_['text_edit']         = 'Редагувати виробника';
+$_['text_default']      = 'За замовчуванням';
+$_['text_percent']      = 'Відсоток';
+$_['text_amount']       = 'Фіксована сума';
+$_['text_keyword']      = 'Не використовуйте пробіли, замість них використовуйте - і переконайтеся, що SEO URL є унікальним в глобальному контексті.';
 
-// Column
-$_['column_name']       = 'Manufacturer Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+// Колонка
+$_['column_name']       = 'Назва виробника';
+$_['column_sort_order'] = 'Порядок сортування';
+$_['column_action']     = 'Дія';
 
-// Entry
-$_['entry_name']        = 'Manufacturer Name';
-$_['entry_store']       = 'Stores';
-$_['entry_keyword']     = 'Keyword';
-$_['entry_image']       = 'Image';
-$_['entry_sort_order']  = 'Sort Order';
-$_['entry_type']        = 'Type';
+// Введення
+$_['entry_name']        = 'Назва виробника';
+$_['entry_store']       = 'Магазини';
+$_['entry_keyword']     = 'SEO URL';
+$_['entry_image']       = 'Зображення';
+$_['entry_sort_order']  = 'Порядок сортування';
+$_['entry_type']        = 'Тип';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify manufacturers!';
-$_['error_name']        = 'Manufacturer Name must be between 1 and 64 characters!';
-$_['error_keyword']     = 'SEO URL already in use!';
-$_['error_unique']      = 'SEO URL must be unique!';
-$_['error_product']     = 'Warning: This manufacturer cannot be deleted as it is currently assigned to %s products!';
+// Помилки
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну виробників!';
+$_['error_name']        = 'Назва виробника повинна бути від 1 до 64 символів!';
+$_['error_keyword']     = 'SEO URL вже використовується!';
+$_['error_unique']      = 'SEO URL повинен бути унікальним!';
+$_['error_product']     = 'Попередження: цього виробника не можна видалити, оскільки він наразі призначений для %s товарів!';

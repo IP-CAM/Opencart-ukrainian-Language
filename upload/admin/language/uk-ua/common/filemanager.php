@@ -1,23 +1,23 @@
 <?php
-// Heading
-$_['heading_title']    = 'Image Manager';
+// Заголовок
+$_['heading_title']    = 'Менеджер зображень';
 
-// Text
-$_['text_uploaded']    = 'Success: Your file has been uploaded!';
-$_['text_directory']   = 'Success: Directory created!';
-$_['text_delete']      = 'Success: Your file or directory has been deleted!';
+// Текст
+$_['text_uploaded']    = 'Успішно: Ваш файл було завантажено!';
+$_['text_directory']   = 'Успішно: Директорію створено!';
+$_['text_delete']      = 'Успішно: Ваш файл або директорію видалено!';
 
-// Entry
-$_['entry_search']     = 'Search..';
-$_['entry_folder']     = 'Folder Name';
+// Поле
+$_['entry_search']     = 'Пошук..';
+$_['entry_folder']     = 'Назва папки';
 
-// Error
-$_['error_permission'] = 'Warning: Permission Denied!';
-$_['error_filename']   = 'Warning: Filename must be between 3 and 255!';
-$_['error_folder']     = 'Warning: Folder name must be between 3 and 255!';
-$_['error_exists']     = 'Warning: A file or directory with the same name already exists!';
-$_['error_directory']  = 'Warning: Directory does not exist!';
-$_['error_filesize']   = 'Warning: Incorrect file size!';
-$_['error_filetype']   = 'Warning: Incorrect file type!';
-$_['error_upload']     = 'Warning: File could not be uploaded for an unknown reason!';
-$_['error_delete']     = 'Warning: You can not delete this directory!';
+// Помилка
+$_['error_permission'] = 'Попередження: Доступ заборонено!';
+$_['error_filename']   = 'Попередження: Назва файлу повинна бути від 3 до 255 символів!';
+$_['error_folder']     = 'Попередження: Назва папки повинна бути від 3 до 255 символів!';
+$_['error_exists']     = 'Попередження: Файл або папка з такою назвою вже існує!';
+$_['error_directory']  = 'Попередження: Директорія не існує!';
+$_['error_filesize']   = 'Попередження: Неправильний розмір файлу!';
+$_['error_filetype']   = 'Попередження: Неправильний тип файлу!';
+$_['error_upload']     = 'Попередження: Файл не може бути завантажений з невідомих причин!';
+$_['error_delete']     = 'Попередження: Ви не можете видалити цю директорію!';

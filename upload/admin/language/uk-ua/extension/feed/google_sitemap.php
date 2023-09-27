@@ -1,15 +1,15 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title']    = 'Google Sitemap';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Google Sitemap feed!';
-$_['text_edit']        = 'Edit Google Sitemap';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили Google Sitemap feed!';
+$_['text_edit']        = 'Редагувати Google Sitemap';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_data_feed']  = 'Data Feed Url';
+// Запис
+$_['entry_status']     = 'Статус';
+$_['entry_data_feed']  = 'URL потоку даних';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Sitemap feed!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну Google Sitemap feed!';

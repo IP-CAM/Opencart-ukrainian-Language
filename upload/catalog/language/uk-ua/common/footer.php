@@ -15,4 +15,3 @@ $_['text_order']        = 'Історія замовлень';
 $_['text_wishlist']     = 'Список бажань';
 $_['text_newsletter']   = 'Розсилка';
 $_['text_powered']      = 'Працює на <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
-?>

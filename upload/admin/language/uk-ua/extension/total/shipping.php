@@ -1,16 +1,16 @@
 <?php
-// Heading
-$_['heading_title']    = 'Shipping';
+// Заголовок
+$_['heading_title']    = 'Доставка';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified shipping total!';
-$_['text_edit']        = 'Edit Shipping Total';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успішно: Ви внесли зміни до вартості доставки!';
+$_['text_edit']        = 'Редагувати Вартість доставки';
 
-// Entry
-$_['entry_estimator']  = 'Shipping Estimator';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Вхідні дані
+$_['entry_estimator']  = 'Калькулятор доставки';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify shipping total!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну вартості доставки!';

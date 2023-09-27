@@ -1,31 +1,31 @@
 <?php
-// Heading
-$_['heading_title']     = 'Customer Searches Report';
+// Заголовок
+$_['heading_title']     = 'Звіт про пошуки клієнтів';
 
-// Text
-$_['text_extension']    = 'Extensions';
-$_['text_edit']         = 'Edit Customer Searches Report';
-$_['text_success']      = 'Success: You have modified customer searches report!';
-$_['text_filter']       = 'Filter';
-$_['text_guest']        = 'Guest';
+// Текст
+$_['text_extension']    = 'Розширення';
+$_['text_edit']         = 'Редагувати звіт про пошуки клієнтів';
+$_['text_success']      = 'Успіх: Ви змінили звіт про пошуки клієнтів!';
+$_['text_filter']       = 'Фільтр';
+$_['text_guest']        = 'Гість';
 $_['text_customer']     = '<a href="%s">%s</a>';
 
-// Column
-$_['column_keyword']    = 'Keyword';
-$_['column_products']   = 'Found Products';
-$_['column_category']   = 'Category';
-$_['column_customer']   = 'Customer';
+// Колонки
+$_['column_keyword']    = 'Ключове слово';
+$_['column_products']   = 'Знайдені товари';
+$_['column_category']   = 'Категорія';
+$_['column_customer']   = 'Клієнт';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'Дата додавання';
 
-// Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
-$_['entry_keyword']     = 'Keyword';
-$_['entry_customer']    = 'Customer';
+// Вхідні дані
+$_['entry_date_start']  = 'Дата початку';
+$_['entry_date_end']    = 'Дата завершення';
+$_['entry_keyword']     = 'Ключове слово';
+$_['entry_customer']    = 'Клієнт';
 $_['entry_ip']          = 'IP';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_status']      = 'Статус';
+$_['entry_sort_order']  = 'Порядок сортування';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customer searches report!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну звіту про пошуки клієнтів!';

@@ -1,24 +1,24 @@
 <?php
-// Heading
-$_['heading_title']    = 'Klarna Fee';
+// Заголовок
+$_['heading_title']    = 'Плата Klarna';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Klarna fee total!';
-$_['text_edit']        = 'Edit Klarna Fee Total';
-$_['text_sweden']      = 'Sweden';
-$_['text_norway']      = 'Norway';
-$_['text_finland']     = 'Finland';
-$_['text_denmark']     = 'Denmark';
-$_['text_germany']     = 'Germany';
-$_['text_netherlands'] = 'The Netherlands';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успішно: Ви внесли зміни до вартості плати Klarna!';
+$_['text_edit']        = 'Редагувати Вартість плати Klarna';
+$_['text_sweden']      = 'Швеція';
+$_['text_norway']      = 'Норвегія';
+$_['text_finland']     = 'Фінляндія';
+$_['text_denmark']     = 'Данія';
+$_['text_germany']     = 'Німеччина';
+$_['text_netherlands'] = 'Нідерланди';
 
-// Entry
-$_['entry_total']      = 'Order Total';
-$_['entry_fee']        = 'Invoice Fee';
-$_['entry_tax_class']  = 'Tax Class';
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Вхідні дані
+$_['entry_total']      = 'Загальна сума замовлення';
+$_['entry_fee']        = 'Плата за рахунком';
+$_['entry_tax_class']  = 'Клас податку';
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Klarna fee total!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну вартості плати Klarna!';

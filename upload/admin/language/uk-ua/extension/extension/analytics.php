@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Analytics';
+// Заголовок
+$_['heading_title']    = 'Аналітика';
 
-// Text
-$_['text_success']     = 'Success: You have modified analytics!';
-$_['text_list']        = 'Analytics List';
+// Текст
+$_['text_success']     = 'Успіх: Ви внесли зміни до аналітики!';
+$_['text_list']        = 'Список аналітики';
 
-// Column
-$_['column_name']      = 'Analytics Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_name']      = 'Назва аналітики';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Дія';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify analytics!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну налаштувань аналітики!';

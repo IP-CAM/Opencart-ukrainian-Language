@@ -1,12 +1,12 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title']      = 'OpenCart';
 
-// Text
-$_['text_profile']       = 'Your Profile';
-$_['text_store']         = 'Stores';
-$_['text_help']          = 'Help';
-$_['text_homepage']      = 'OpenCart Homepage';
-$_['text_support']       = 'Support Forum';
-$_['text_documentation'] = 'Documentation';
-$_['text_logout']        = 'Logout';
+// Текст
+$_['text_profile']       = 'Ваш профіль';
+$_['text_store']         = 'Магазини';
+$_['text_help']          = 'Допомога';
+$_['text_homepage']      = 'Головна сторінка OpenCart';
+$_['text_support']       = 'Форум підтримки';
+$_['text_documentation'] = 'Документація';
+$_['text_logout']        = 'Вийти';

@@ -1,31 +1,31 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title']    = 'SEO URL';
 
-// Text
-$_['text_success']     = 'Success: You have modified SEO URL!';
-$_['text_list']        = 'SEO URL List';
-$_['text_add']         = 'Add SEO URL';
-$_['text_edit']        = 'Edit SEO URL';
-$_['text_filter']      = 'Filter';
-$_['text_default']     = 'Default';
+// Текст
+$_['text_success']     = 'Успіх: ви змінили SEO URL!';
+$_['text_list']        = 'Список SEO URL';
+$_['text_add']         = 'Додати SEO URL';
+$_['text_edit']        = 'Редагувати SEO URL';
+$_['text_filter']      = 'Фільтр';
+$_['text_default']     = 'За замовчуванням';
 
-// Column
-$_['column_query']     = 'Query';
-$_['column_keyword']   = 'Keyword';
-$_['column_store']     = 'Store';
-$_['column_language']  = 'Language';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_query']     = 'Запит';
+$_['column_keyword']   = 'Ключове слово';
+$_['column_store']     = 'Магазин';
+$_['column_language']  = 'Мова';
+$_['column_action']    = 'Дія';
 
-// Entry
-$_['entry_query']        = 'Query';
-$_['entry_keyword']      = 'Keyword';
-$_['entry_store']        = 'Store';
-$_['entry_language']     = 'Language';
+// Вступні дані
+$_['entry_query']        = 'Запит';
+$_['entry_keyword']      = 'Ключове слово';
+$_['entry_store']        = 'Магазин';
+$_['entry_language']     = 'Мова';
 
-// Error
-$_['error_permission']   = 'Warning: You do not have permission to modify SEO URL!';
-$_['error_query']        = 'Query must be between 3 and 64 characters!';
-$_['error_keyword']      = 'Keyword must be between 3 and 64 characters!';
-$_['error_exists']       = 'Keyword already in use!';
-$_['error_query_exists'] = 'Query already in use!';
+// Помилки
+$_['error_permission']   = 'Попередження: у вас немає дозволу на зміну SEO URL!';
+$_['error_query']        = 'Запит повинен містити від 3 до 64 символів!';
+$_['error_keyword']      = 'Ключове слово повинно містити від 3 до 64 символів!';
+$_['error_exists']       = 'Ключове слово вже використовується!';
+$_['error_query_exists'] = 'Запит вже використовується!';

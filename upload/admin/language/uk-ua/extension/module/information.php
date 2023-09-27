@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Information';
+// Заголовок
+$_['heading_title']    = 'Інформаційні сторінки';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified information module!';
-$_['text_edit']        = 'Edit Information Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль "Інформаційні сторінки"!';
+$_['text_edit']        = 'Редагувати модуль "Інформаційні сторінки"';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify information module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля "Інформаційні сторінки"!';

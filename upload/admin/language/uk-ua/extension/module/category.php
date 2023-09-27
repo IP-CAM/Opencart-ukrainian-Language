@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Category';
+// Заголовок
+$_['heading_title']    = 'Категорія';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified category module!';
-$_['text_edit']        = 'Edit Category Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль категорії!';
+$_['text_edit']        = 'Редагувати модуль категорії';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify category module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля категорії!';

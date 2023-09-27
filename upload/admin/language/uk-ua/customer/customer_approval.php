@@ -1,28 +1,28 @@
 <?php
-// Heading
-$_['heading_title']         = 'Customer Approvals';
+// Заголовок
+$_['heading_title']         = 'Затвердження клієнтів';
 
-// Text
-$_['text_success']          = 'Success: You have modified customer approvals!';
-$_['text_list']             = 'Customer Approval List';
-$_['text_default']          = 'Default';
-$_['text_customer']         = 'Customer';
-$_['text_affiliate']        = 'Affiliate';
+// Текст
+$_['text_success']          = 'Успіх: Ви внесли зміни в затвердження клієнтів!';
+$_['text_list']             = 'Список затвердження клієнтів';
+$_['text_default']          = 'За замовчуванням';
+$_['text_customer']         = 'Клієнт';
+$_['text_affiliate']        = 'Партнер';
 
-// Column
-$_['column_name']           = 'Customer Name';
+// Колонки
+$_['column_name']           = 'Ім\'я клієнта';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_type']           = 'Type';
-$_['column_date_added']     = 'Date Added';
-$_['column_action']         = 'Action';
+$_['column_customer_group'] = 'Група клієнта';
+$_['column_type']           = 'Тип';
+$_['column_date_added']     = 'Дата додавання';
+$_['column_action']         = 'Дія';
 
-// Entry
-$_['entry_name']            = 'Customer Name';
+// Поле для введення
+$_['entry_name']            = 'Ім\'я клієнта';
 $_['entry_email']           = 'E-Mail';
-$_['entry_customer_group']  = 'Customer Group';
-$_['entry_type']            = 'Type';
-$_['entry_date_added']      = 'Date Added';
+$_['entry_customer_group']  = 'Група клієнта';
+$_['entry_type']            = 'Тип';
+$_['entry_date_added']      = 'Дата додавання';
 
-// Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer approvals!';
+// Помилки
+$_['error_permission']      = 'Попередження: У вас немає дозволу на зміну затвердження клієнтів!';

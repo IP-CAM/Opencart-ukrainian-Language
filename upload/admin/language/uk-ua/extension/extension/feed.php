@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Feeds';
+// Заголовок
+$_['heading_title']    = 'Фіди даних';
 
-// Text
-$_['text_success']     = 'Success: You have modified feeds!';
-$_['text_list']        = 'Feed List';
+// Текст
+$_['text_success']     = 'Успішно: Ви змінили Фіди даних!';
+$_['text_list']        = 'Список фідів';
 
-// Column
-$_['column_name']      = 'Product Feed Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_name']      = 'Назва фіду';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Дія';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify feeds!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну фідів!';

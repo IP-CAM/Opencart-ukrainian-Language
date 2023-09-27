@@ -1,33 +1,33 @@
 <?php
-// Heading
-$_['heading_title']         = 'Profile';
+// Заголовок
+$_['heading_title']         = 'Профіль';
 
-// Text
-$_['text_success']          = 'Success: You have modified your profile!';
-$_['text_edit']             = 'Edit Your Profile';
+// Текст
+$_['text_success']          = 'Успішно: Ви внесли зміни у свій профіль!';
+$_['text_edit']             = 'Редагувати свій профіль';
 
-// Column
-$_['column_username']       = 'Username';
-$_['column_status']         = 'Status';
-$_['column_date_added']     = 'Date Added';
-$_['column_action']         = 'Action';
+// Колонки
+$_['column_username']       = 'Ім\'я користувача';
+$_['column_status']         = 'Статус';
+$_['column_date_added']     = 'Дата додавання';
+$_['column_action']         = 'Дія';
 
-// Entry
-$_['entry_username']        = 'Username';
-$_['entry_password']        = 'Password';
-$_['entry_confirm']         = 'Confirm';
-$_['entry_firstname']       = 'First Name';
-$_['entry_lastname']        = 'Last Name';
-$_['entry_email']           = 'E-Mail';
-$_['entry_image']           = 'Image';
+// Поля для введення
+$_['entry_username']        = 'Ім\'я користувача';
+$_['entry_password']        = 'Пароль';
+$_['entry_confirm']         = 'Підтвердити';
+$_['entry_firstname']       = 'Ім\'я';
+$_['entry_lastname']        = 'Прізвище';
+$_['entry_email']           = 'Електронна пошта';
+$_['entry_image']           = 'Зображення';
 
-// Error
-$_['error_permission']      = 'Warning: You do not have permission to modify your profile!';
-$_['error_exists_username'] = 'Warning: Username is already in use!';
-$_['error_username']        = 'Username must be between 3 and 20 characters!';
-$_['error_password']        = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']         = 'Password and password confirmation do not match!';
-$_['error_firstname']       = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']        = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']           = 'E-Mail Address does not appear to be valid!';
-$_['error_exists_email']    = 'Warning: E-Mail Address is already registered!';
+// Помилки
+$_['error_permission']      = 'Попередження: У вас немає прав для зміни свого профілю!';
+$_['error_exists_username'] = 'Попередження: Ім\'я користувача вже використовується!';
+$_['error_username']        = 'Ім\'я користувача повинно містити від 3 до 20 символів!';
+$_['error_password']        = 'Пароль повинен містити від 4 до 20 символів!';
+$_['error_confirm']         = 'Пароль і підтвердження пароля не співпадають!';
+$_['error_firstname']       = 'Ім\'я повинно містити від 1 до 32 символів!';
+$_['error_lastname']        = 'Прізвище повинно містити від 1 до 32 символів!';
+$_['error_email']           = 'Адреса електронної пошти не вважається дійсною!';
+$_['error_exists_email']    = 'Попередження: Адреса електронної пошти вже зареєстрована!';
