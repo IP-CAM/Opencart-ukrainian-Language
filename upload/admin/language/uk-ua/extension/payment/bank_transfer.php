@@ -1,23 +1,23 @@
 <?php
-// Heading
-$_['heading_title']      = 'Bank Transfer';
+// Заголовок
+$_['heading_title']      = 'Банківський переказ';
 
-// Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified bank transfer details!';
-$_['text_edit']          = 'Edit Bank Transfer';
+// Текст
+$_['text_extension']     = 'Розширення';
+$_['text_success']       = 'Успіх: ви змінили деталі банківського переказу!';
+$_['text_edit']          = 'Редагувати банківський переказ';
 
-// Entry
-$_['entry_bank']         = 'Bank Transfer Instructions';
-$_['entry_total']        = 'Total';
-$_['entry_order_status'] = 'Order Status';
-$_['entry_geo_zone']     = 'Geo Zone';
-$_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+// Вхід
+$_['entry_bank']         = 'Інструкції для банківського переказу';
+$_['entry_total']        = 'Загальна сума';
+$_['entry_order_status'] = 'Статус замовлення';
+$_['entry_geo_zone']     = 'Географічна зона';
+$_['entry_status']       = 'Статус';
+$_['entry_sort_order']   = 'Порядок сортування';
 
-// Help
-$_['help_total']         = 'The checkout total the order must reach before this payment method becomes active.'; 
+// Допомога
+$_['help_total']         = 'Загальна сума замовлення, яку повинен досягти замовлення перед активацією цього методу оплати.'; 
 
-// Error 
-$_['error_permission']   = 'Warning: You do not have permission to modify payment bank transfer!';
-$_['error_bank']         = 'Bank Transfer Instructions Required!';
+// Помилка 
+$_['error_permission']   = 'Попередження: у вас немає прав на зміну оплати банківського переказу!';
+$_['error_bank']         = 'Необхідні інструкції для банківського переказу!';

@@ -1,13 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Sagepay Direct Card Management';
+// Заголовок
+$_['heading_title']    = 'Управління карткою Sagepay Direct';
 
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Sagepay Direct Card Management module!';
-$_['text_edit']        = 'Edit Sagepay Direct Card Management Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль управління карткою Sagepay Direct!';
+$_['text_edit']        = 'Редагувати модуль управління карткою Sagepay Direct';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Sagepay Direct Card Management module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля управління карткою Sagepay Direct!';

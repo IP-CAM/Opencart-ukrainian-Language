@@ -1,102 +1,100 @@
 <?php
-// Heading
-$_['heading_title']                 = 'CardConnect';
+// Заголовок
+$_['heading_title']                = 'CardConnect';
 
-// Tab
-$_['tab_settings']                  = 'Settings';
-$_['tab_order_status']              = 'Order Status';
+// Вкладка
+$_['tab_settings']                 = 'Налаштування';
+$_['tab_order_status']             = 'Статуси замовлення';
 
-// Text
-$_['text_extension']                = 'Extensions';
-$_['text_success']                  = 'Success: You have modified CardConnect payment module!';
-$_['text_edit']                     = 'Edit CardConnect';
-$_['text_cardconnect']              = '<a href="http://www.cardconnect.com" target="_blank"><img src="view/image/payment/cardconnect.png" alt="CardConnect" title="CardConnect"></a>';
-$_['text_payment']                  = 'Payment';
-$_['text_refund']                   = 'Refund';
-$_['text_authorize']                = 'Authorize';
-$_['text_live']                     = 'Live';
-$_['text_test']                     = 'Test';
-$_['text_no_cron_time']             = 'The cron has not yet been executed';
-$_['text_payment_info']             = 'Payment Information';
-$_['text_payment_method']           = 'Payment Method';
-$_['text_card']                     = 'Card';
-$_['text_echeck']                   = 'eCheck';
-$_['text_reference']                = 'Reference';
-$_['text_update']                   = 'Update';
-$_['text_order_total']              = 'Order Total';
-$_['text_total_captured']           = 'Total Captured';
-$_['text_capture_payment']          = 'Capture Payment';
-$_['text_refund_payment']           = 'Refund Payment';
-$_['text_void']                     = 'Void';
-$_['text_transactions']             = 'Transactions';
-$_['text_column_type']              = 'Type';
-$_['text_column_reference']         = 'Reference';
-$_['text_column_amount']            = 'Amount';
-$_['text_column_status']            = 'Status';
-$_['text_column_date_modified']     = 'Date Modified';
-$_['text_column_date_added']        = 'Date Added';
-$_['text_column_update']            = 'Update';
-$_['text_column_void']              = 'Void';
-$_['text_confirm_capture']          = 'Are you sure you want to capture the payment?';
-$_['text_confirm_refund']           = 'Are you sure you want to refund the payment?';
-$_['text_inquire_success']          = 'Inquire was successful';
-$_['text_capture_success']          = 'Capture request was successful';
-$_['text_refund_success']           = 'Refund request was successful';
-$_['text_void_success']             = 'Void request was successful';
+// Текст
+$_['text_extension']               = 'Розширення';
+$_['text_success']                 = 'Успішно: ви змінили модуль оплати CardConnect!';
+$_['text_edit']                    = 'Редагувати CardConnect';
+$_['text_cardconnect']             = '<a href="http://www.cardconnect.com" target="_blank"><img src="view/image/payment/cardconnect.png" alt="CardConnect" title="CardConnect"></a>';
+$_['text_payment']                 = 'Оплата';
+$_['text_refund']                  = 'Повернення';
+$_['text_authorize']               = 'Авторизувати';
+$_['text_live']                    = 'Реальний';
+$_['text_test']                    = 'Тест';
+$_['text_no_cron_time']            = 'Cron ще не був виконаний';
+$_['text_payment_info']            = 'Інформація про оплату';
+$_['text_payment_method']          = 'Метод оплати';
+$_['text_card']                    = 'Картка';
+$_['text_echeck']                  = 'eCheck';
+$_['text_reference']               = 'Посилання';
+$_['text_update']                  = 'Оновити';
+$_['text_order_total']             = 'Загальна сума замовлення';
+$_['text_total_captured']          = 'Всього сплачено';
+$_['text_capture_payment']         = 'Захопити оплату';
+$_['text_refund_payment']          = 'Повернути оплату';
+$_['text_void']                    = 'Скасувати';
+$_['text_transactions']            = 'Транзакції';
+$_['text_column_type']             = 'Тип';
+$_['text_column_reference']        = 'Посилання';
+$_['text_column_amount']           = 'Сума';
+$_['text_column_status']           = 'Статус';
+$_['text_column_date_modified']    = 'Дата зміни';
+$_['text_column_date_added']       = 'Дата додавання';
+$_['text_column_update']           = 'Оновлення';
+$_['text_column_void']             = 'Скасувати';
+$_['text_confirm_capture']         = 'Ви впевнені, що хочете захопити оплату?';
+$_['text_confirm_refund']          = 'Ви впевнені, що хочете повернути оплату?';
+$_['text_inquire_success']         = 'Запит був успішним';
+$_['text_capture_success']         = 'Запит на захоплення був успішним';
+$_['text_refund_success']          = 'Запит на повернення був успішним';
+$_['text_void_success']            = 'Запит на скасування був успішним';
 
-// Entry
-$_['entry_merchant_id']             = 'Merchant ID';
-$_['entry_api_username']            = 'API Username';
-$_['entry_api_password']            = 'API Password';
-$_['entry_token']                   = 'Secret Token';
-$_['entry_transaction']             = 'Transaction';
-$_['entry_environment']             = 'Environment';
-$_['entry_site']                    = 'Site';
-$_['entry_store_cards']             = 'Store Cards';
-$_['entry_echeck']                  = 'eCheck';
-$_['entry_total']                   = 'Total';
-$_['entry_geo_zone']                = 'Geo Zone';
-$_['entry_status']                  = 'Status';
-$_['entry_logging']                 = 'Debug Logging';
-$_['entry_sort_order']              = 'Sort Order';
-$_['entry_cron_url']                = 'Cron Job URL';
-$_['entry_cron_time']               = 'Cron Job Last Run';
-$_['entry_order_status_pending']    = 'Pending';
-$_['entry_order_status_processing'] = 'Processing';
+// Вхід
+$_['entry_merchant_id']            = 'Ідентифікатор продавця';
+$_['entry_api_username']           = 'Ім\'я користувача API';
+$_['entry_api_password']           = 'Пароль API';
+$_['entry_token']                  = 'Секретний токен';
+$_['entry_transaction']            = 'Транзакція';
+$_['entry_environment']            = 'Середовище';
+$_['entry_site']                   = 'Сайт';
+$_['entry_store_cards']            = 'Зберігання карток';
+$_['entry_echeck']                 = 'eCheck';
+$_['entry_total']                  = 'Загальна сума';
+$_['entry_geo_zone']               = 'Геозона';
+$_['entry_status']                 = 'Статус';
+$_['entry_logging']                = 'Логування налагодження';
+$_['entry_sort_order']             = 'Порядок сортування';
+$_['entry_cron_url']               = 'URL завдання Cron';
+$_['entry_cron_time']              = 'Останнє виконання завдання Cron';
+$_['entry_order_status_pending']    = 'В очікуванні';
+$_['entry_order_status_processing'] = 'Обробка';
 
-// Help
-$_['help_merchant_id']              = 'Your personal CardConnect account merchant ID.';
-$_['help_api_username']             = 'Your username to access the CardConnect API.';
-$_['help_api_password']             = 'Your password to access the CardConnect API.';
-$_['help_token']                    = 'Enter a random token for security or use the one generated.';
-$_['help_transaction']              = 'Choose \'Payment\' to capture the payment immediately or \'Authorize\' to have to approve it.';
-$_['help_site']                     = 'This determines the first part of the API URL. Only change if instructed.';
-$_['help_store_cards']              = 'Whether you want to store cards using tokenization.';
-$_['help_echeck']                   = 'Whether you want to offer the ability to pay using an eCheck.';
-$_['help_total']                    = 'The checkout total the order must reach before this payment method becomes active. Must be a value with no currency sign.';
-$_['help_logging']                  = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise.';
-$_['help_cron_url']                 = 'Set a cron job to call this URL so that the orders are auto-updated. It is designed to be ran a few hours after the last capture of a business day.';
-$_['help_cron_time']                = 'This is the last time that the cron job URL was executed.';
-$_['help_order_status_pending']     = 'The order status when the order has to be authorized by the merchant.';
-$_['help_order_status_processing']  = 'The order status when the order is automatically captured.';
+// Допомога
+$_['help_merchant_id']             = 'Ваш особистий ідентифікатор продавця CardConnect.';
+$_['help_api_username']            = 'Ваше ім\'я користувача для доступу до API CardConnect.';
+$_['help_api_password']            = 'Ваш пароль для доступу до API CardConnect.';
+$_['help_token']                   = 'Введіть випадковий токен для забезпечення безпеки або використовуйте згенерований.';
+$_['help_transaction']             = 'Виберіть \'Payment\', щоб заспокоїти оплату негайно або \'Authorize\', щоб заспокоїти її.';
+$_['help_site']                    = 'Це визначає першу частину URL API. Змінюйте лише за вказівкою.';
+$_['help_store_cards']             = 'Чи бажаєте ви зберігати картки за допомогою токенізації.';
+$_['help_echeck']                  = 'Чи бажаєте ви пропонувати можливість оплати за допомогою eCheck.';
+$_['help_total']                   = 'Загальна сума замовлення, яку повинен досягти замовлення перед активацією цього методу оплати. Повинна бути значенням без валютного знака.';
+$_['help_logging']                 = 'Увімкнення режиму налагодження записуватиме чутливі дані в файл журналу. Ви повинні завжди вимикати його, якщо не отримали відповідну інструкцію.';
+$_['help_cron_url']                = 'Встановіть завдання Cron для виклику цього URL, щоб замовлення автоматично оновлювалися. Він розрахований на запуск кілька годин після останнього захоплення в робочий день.';
+$_['help_cron_time']               = 'Це останній час, коли було виконано завдання Cron.';
 
-// Button
-$_['button_inquire_all']            = 'Inquire All';
-$_['button_capture']                = 'Capture';
-$_['button_refund']                 = 'Refund';
-$_['button_void_all']               = 'Void All';
-$_['button_inquire']                = 'Inquire';
-$_['button_void']                   = 'Void';
+// Кнопка
+$_['button_inquire_all']           = 'Дізнатися все';
+$_['button_capture']               = 'Захопити';
+$_['button_refund']                = 'Повернути';
+$_['button_void_all']              = 'Скасувати всі';
+$_['button_inquire']               = 'Дізнатися';
+$_['button_void']                  = 'Скасувати';
 
-// Error
-$_['error_permission']              = 'Warning: You do not have permission to modify payment CardConnect!';
-$_['error_merchant_id']             = 'Merchant ID Required!';
-$_['error_api_username']            = 'API Username Required!';
-$_['error_api_password']            = 'API Password Required!';
-$_['error_token']                   = 'Secret Token Required!';
-$_['error_site']                    = 'Site Required!';
-$_['error_amount_zero']             = 'Amount must be higher than zero!';
-$_['error_no_order']                = 'No matching order info!';
-$_['error_invalid_response']        = 'Invalid response received!';
-$_['error_data_missing']            = 'Missing data!';
-$_['error_not_enabled']             = 'Module not enabled!';
+// Помилка
+$_['error_permission']             = 'Попередження: у вас немає прав на зміну модуля оплати CardConnect!';
+$_['error_merchant_id']            = 'Ідентифікатор продавця обов\'язковий!';
+$_['error_api_username']           = 'Ім\'я користувача API обов\'язкове!';
+$_['error_api_password']           = 'Пароль API обов\'язковий!';
+$_['error_token']                  = 'Секретний токен обов\'язковий!';
+$_['error_site']                   = 'Сайт обов\'язковий!';
+$_['error_amount_zero']            = 'Сума повинна бути більше нуля!';
+$_['error_no_order']               = 'Немає відповідної інформації про замовлення!';
+$_['error_invalid_response']       = 'Отримано недійсну відповідь!';
+$_['error_data_missing']           = 'Відсутні дані!';
+$_['error_not_enabled']            = 'Модуль не ввімкнено!';

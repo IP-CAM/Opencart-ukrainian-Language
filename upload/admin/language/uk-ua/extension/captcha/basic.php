@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Basic Captcha';
+// Заголовок
+$_['heading_title']    = 'Проста капча (Basic Captcha)';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Basic Captcha!';
-$_['text_edit']        = 'Edit Basic Captcha';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успішно: ви внесли зміни до простої капчі!';
+$_['text_edit']        = 'Редагувати просту капчу';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Basic Captcha!';
+// Помилка
+$_['error_permission'] = 'Попередження: у вас немає дозволу на зміну простої капчі!';

@@ -1,18 +1,18 @@
 <?php
-// Heading
-$_['heading_title']    = 'Store';
+// Заголовок
+$_['heading_title']    = 'Магазин';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified store module!';
-$_['text_edit']        = 'Edit Store Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль магазину!';
+$_['text_edit']        = 'Редагувати модуль магазину';
 
-// Entry
-$_['entry_admin']      = 'Admin Users Only';
-$_['entry_status']     = 'Status';
+// Вхідні дані
+$_['entry_admin']      = 'Тільки адміністратори';
+$_['entry_status']     = 'Статус';
 
-//Help
-$_['help_admin']       = 'If yes, then multi store list will be visible only when admin user login!';
+// Допомога
+$_['help_admin']       = 'Якщо так, то список багатьох магазинів буде видимим лише при вході адміністратора!';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля магазину!';

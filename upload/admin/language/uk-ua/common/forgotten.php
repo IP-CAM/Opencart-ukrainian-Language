@@ -1,19 +1,19 @@
 <?php
-// Heading
-$_['heading_title']   = 'Forgot Your Password?';
+// Заголовок
+$_['heading_title']   = 'Забули пароль?';
 
-// Text
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
-$_['text_success']    = 'An email with a confirmation link has been sent your admin email address.';
+// Текст
+$_['text_forgotten']  = 'Забули пароль';
+$_['text_your_email'] = 'Ваша адреса електронної пошти';
+$_['text_email']      = 'Введіть адресу електронної пошти, пов\'язану з вашим обліковим записом. Натисніть "Відправити" для отримання посилання для скидання пароля на вашу електронну пошту.';
+$_['text_success']    = 'На вашу адресу електронної пошти було відправлено лист із посиланням для скидання пароля.';
 
-// Entry
-$_['entry_email']     = 'E-Mail Address';
-$_['entry_password']  = 'New Password';
-$_['entry_confirm']   = 'Confirm';
+// Поле
+$_['entry_email']     = 'Адреса електронної пошти';
+$_['entry_password']  = 'Новий пароль';
+$_['entry_confirm']   = 'Підтвердження паролю';
 
-// Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_password']  = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';
+// Помилка
+$_['error_email']     = 'Попередження: Адресу електронної пошти не знайдено в наших записах. Будь ласка, спробуйте ще раз!';
+$_['error_password']  = 'Пароль повинен бути від 4 до 20 символів!';
+$_['error_confirm']   = 'Пароль та підтвердження паролю не збігаються!';

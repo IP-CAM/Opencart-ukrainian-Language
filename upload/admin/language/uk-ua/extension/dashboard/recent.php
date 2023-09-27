@@ -1,25 +1,24 @@
 <?php
-// Heading
-$_['heading_title']     = 'Latest Orders';
+// Заголовок
+$_['heading_title']     = 'Останні замовлення';
 
-// Text
-$_['text_extension']    = 'Extensions';
-$_['text_success']      = 'Success: You have modified dashboard recent orders!';
-$_['text_edit']         = 'Edit Dashboard Recent Orders';
+// Текст
+$_['text_extension']    = 'Розширення';
+$_['text_success']      = 'Успіх: ви внесли зміни до блоку "Останні замовлення" на панелі інструментів!';
+$_['text_edit']         = 'Редагувати блок "Останні замовлення" на панелі інструментів';
 
-// Column
-$_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
-$_['column_status']     = 'Status';
-$_['column_total']      = 'Total';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+// Колонки
+$_['column_order_id']   = 'ID замовлення';
+$_['column_customer']   = 'Покупець';
+$_['column_status']     = 'Статус';
+$_['column_total']      = 'Загальна сума';
+$_['column_date_added'] = 'Дата додавання';
+$_['column_action']     = 'Дія';
 
+// Введення
+$_['entry_status']      = 'Статус';
+$_['entry_sort_order']  = 'Порядок сортування';
+$_['entry_width']       = 'Ширина';
 
-// Entry
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
-$_['entry_width']       = 'Width';
-
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify dashboard recent orders!';
+// Помилка
+$_['error_permission']  = 'Попередження: у вас немає дозволу на зміну блоку "Останні замовлення" на панелі інструментів!';

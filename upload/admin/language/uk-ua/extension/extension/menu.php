@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Menu';
+// Заголовок
+$_['heading_title']    = 'Меню';
 
-// Text
-$_['text_success']     = 'Success: You have modified menu!';
-$_['text_list']        = 'Menu List';
+// Текст
+$_['text_success']     = 'Успішно: Ви змінили меню!';
+$_['text_list']        = 'Список меню';
 
-// Column
-$_['column_name']      = 'Menu Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_name']      = 'Назва меню';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Дія';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify menu!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну меню!';

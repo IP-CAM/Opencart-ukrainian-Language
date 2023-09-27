@@ -1,34 +1,34 @@
 <?php
-// Heading
-$_['heading_title'] = 'Login with Amazon';
+// Заголовок
+$_['heading_title'] = 'Вхід через Amazon';
 
-//Text
-$_['text_module'] = 'Modules';
-$_['text_extension']               = 'Extensions';
-$_['text_success'] = 'Success: You have modified module Login with Amazon!';
-$_['text_content_top'] = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left'] = 'Column Left';
-$_['text_column_right'] = 'Column Right';
-$_['text_lwa_button'] = 'Login with Amazon';
-$_['text_login_button'] = 'Login';
+// Текст
+$_['text_module'] = 'Модулі';
+$_['text_extension'] = 'Розширення';
+$_['text_success'] = 'Успіх: Ви змінили модуль "Вхід через Amazon"!';
+$_['text_content_top'] = 'Зверху контенту';
+$_['text_content_bottom'] = 'Знизу контенту';
+$_['text_column_left'] = 'Ліва колонка';
+$_['text_column_right'] = 'Права колонка';
+$_['text_lwa_button'] = 'Вхід через Amazon';
+$_['text_login_button'] = 'Увійти';
 $_['text_a_button'] = 'A';
-$_['text_gold_button'] = 'Gold';
-$_['text_darkgray_button'] = 'Dark Gray';
-$_['text_lightgray_button'] = 'Light Gray';
-$_['text_small_button'] = 'Small';
-$_['text_medium_button'] = 'Medium';
-$_['text_large_button'] = 'Large';
-$_['text_x_large_button'] = 'X-Large';
+$_['text_gold_button'] = 'Золотиста';
+$_['text_darkgray_button'] = 'Темно-сіра';
+$_['text_lightgray_button'] = 'Світло-сіра';
+$_['text_small_button'] = 'Мала';
+$_['text_medium_button'] = 'Середня';
+$_['text_large_button'] = 'Велика';
+$_['text_x_large_button'] = 'Дуже велика';
 
-//Entry
-$_['entry_button_type'] = 'Button Type';
-$_['entry_button_colour'] = 'Button Colour';
-$_['entry_button_size'] = 'Button Size';
-$_['entry_layout'] = 'Layout';
-$_['entry_position'] = 'Position';
-$_['entry_status'] = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Поле введення
+$_['entry_button_type'] = 'Тип кнопки';
+$_['entry_button_colour'] = 'Колір кнопки';
+$_['entry_button_size'] = 'Розмір кнопки';
+$_['entry_layout'] = 'Макет';
+$_['entry_position'] = 'Позиція';
+$_['entry_status'] = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-//Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Login with Amazon!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля "Вхід через Amazon"!';

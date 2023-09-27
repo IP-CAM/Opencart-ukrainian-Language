@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Pilibaba Checkout Button';
+// Заголовок
+$_['heading_title']    = 'Кнопка оформлення замовлення Pilibaba';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Pilibaba Checkout Button module!';
-$_['text_edit']        = 'Edit Pilibaba Checkout Button Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль кнопки оформлення замовлення Pilibaba!';
+$_['text_edit']        = 'Редагувати модуль кнопки оформлення замовлення Pilibaba';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Pilibaba Checkout Button module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля кнопки оформлення замовлення Pilibaba!';

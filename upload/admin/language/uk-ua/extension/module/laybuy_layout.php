@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Lay-Buy Layout';
+// Заголовок
+$_['heading_title']    = 'Макет Lay-Buy';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Lay-Buy Layout module!';
-$_['text_edit']        = 'Edit Lay-Buy Layout Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль макету Lay-Buy!';
+$_['text_edit']        = 'Редагувати модуль макету Lay-Buy';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Lay-Buy Layout module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля макету Lay-Buy!';

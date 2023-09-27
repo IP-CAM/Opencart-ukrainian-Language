@@ -1,16 +1,16 @@
 <?php
-// Heading
-$_['heading_title']      = 'Free Checkout';
+// Заголовок
+$_['heading_title']      = 'Безкоштовна доставка';
 
-// Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified Free Checkout payment module!';
-$_['text_edit']          = 'Edit Free Checkout';
+// Текст
+$_['text_extension']     = 'Розширення';
+$_['text_success']       = 'Успіх: Ви змінили модуль оплати "Безкоштовна доставка"!';
+$_['text_edit']          = 'Редагувати "Безкоштовна доставка"';
 
-// Entry
-$_['entry_order_status'] = 'Order Status';
-$_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+// Введення
+$_['entry_order_status'] = 'Статус замовлення';
+$_['entry_status']       = 'Статус';
+$_['entry_sort_order']   = 'Порядок сортування';
 
-// Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment Free Checkout!';
+// Помилка
+$_['error_permission']   = 'Попередження: У вас немає прав для зміни модуля оплати "Безкоштовна доставка"!';

@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Divido Product Page Calculator';
+// Заголовок
+$_['heading_title']    = 'Калькулятор сторінки товару Divido';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Divido Product Page Calculator!';
-$_['text_edit']        = 'Edit Divido Product Page Calculator';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль "Калькулятор сторінки товару Divido"!';
+$_['text_edit']        = 'Редагувати модуль "Калькулятор сторінки товару Divido"';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Divido Product Page Calculator!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля "Калькулятор сторінки товару Divido"!';

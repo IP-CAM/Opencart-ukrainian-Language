@@ -1,21 +1,21 @@
 <?php
-// Heading
-$_['heading_title']    = 'Products Viewed Report';
+// Заголовок
+$_['heading_title']    = 'Звіт про переглянуті товари';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_edit']        = 'Edit Products Viewed Report';
-$_['text_success']     = 'Success: You have reset the products viewed report!';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_edit']        = 'Редагувати звіт про переглянуті товари';
+$_['text_success']     = 'Успішно: Ви скинули звіт про переглянуті товари!';
 
-// Column
-$_['column_name']      = 'Product Name';
-$_['column_model']     = 'Model';
-$_['column_viewed']    = 'Viewed';
-$_['column_percent']   = 'Percent';
+// Колонки
+$_['column_name']      = 'Назва товару';
+$_['column_model']     = 'Модель';
+$_['column_viewed']    = 'Переглянуто';
+$_['column_percent']   = 'Відсоток';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
+// Вхідні дані
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify products viewed report!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну звіту про переглянуті товари!';

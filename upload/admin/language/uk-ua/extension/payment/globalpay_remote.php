@@ -1,95 +1,95 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title']					 = 'Globalpay Remote';
 
-// Text
-$_['text_extension']				 = 'Extensions';
-$_['text_success']					 = 'Success: You have modified Globalpay account details!';
-$_['text_edit']                      = 'Edit Globalpay Remote';
-$_['text_card_type']				 = 'Card type';
-$_['text_enabled']					 = 'Enabled';
-$_['text_use_default']				 = 'Use default';
-$_['text_merchant_id']				 = 'Merchant ID';
-$_['text_subaccount']				 = 'Sub Account';
-$_['text_secret']					 = 'Shared secret';
+// Текст
+$_['text_extension']				 = 'Розширення';
+$_['text_success']					 = 'Успішно: Ви внесли зміни в дані облікового запису Globalpay!';
+$_['text_edit']                      = 'Редагувати Globalpay Remote';
+$_['text_card_type']				 = 'Тип картки';
+$_['text_enabled']					 = 'Увімкнено';
+$_['text_use_default']				 = 'Використовувати за замовчуванням';
+$_['text_merchant_id']				 = 'Ідентифікатор продавця (Merchant ID)';
+$_['text_subaccount']				 = 'Підрахунок (Sub Account)';
+$_['text_secret']					 = 'Спільний секрет (Shared secret)';
 $_['text_card_visa']				 = 'Visa';
 $_['text_card_master']				 = 'Mastercard';
 $_['text_card_amex']				 = 'American Express';
 $_['text_card_switch']				 = 'Switch/Maestro';
 $_['text_card_laser']				 = 'Laser';
 $_['text_card_diners']				 = 'Diners';
-$_['text_capture_ok']				 = 'Capture was successful';
-$_['text_capture_ok_order']			 = 'Capture was successful, order status updated to success - settled';
-$_['text_rebate_ok']				 = 'Rebate was successful';
-$_['text_rebate_ok_order']			 = 'Rebate was successful, order status updated to rebated';
-$_['text_void_ok']					 = 'Void was successful, order status updated to voided';
-$_['text_settle_auto']				 = 'Auto';
-$_['text_settle_delayed']			 = 'Delayed';
-$_['text_settle_multi']				 = 'Multi';
-$_['text_ip_message']				 = 'You must supply your server IP address to your Globalpay account manager before going live';
-$_['text_payment_info']				 = 'Payment information';
-$_['text_capture_status']			 = 'Payment captured';
-$_['text_void_status']				 = 'Payment voided';
-$_['text_rebate_status']			 = 'Payment rebated';
-$_['text_order_ref']				 = 'Order ref';
-$_['text_order_total']				 = 'Total authorised';
-$_['text_total_captured']			 = 'Total captured';
-$_['text_transactions']				 = 'Transactions';
-$_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
-$_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
-$_['text_confirm_rebate']			 = 'Are you sure you want to rebate the payment?';
+$_['text_capture_ok']				 = 'Захоплення пройшло успішно';
+$_['text_capture_ok_order']			 = 'Захоплення пройшло успішно, статус замовлення оновлено на успіх - закріплено';
+$_['text_rebate_ok']				 = 'Повернення успішно';
+$_['text_rebate_ok_order']			 = 'Повернення успішно, статус замовлення оновлено на повернено';
+$_['text_void_ok']					 = 'Відміна успішна, статус замовлення оновлено на скасовано';
+$_['text_settle_auto']				 = 'Авто';
+$_['text_settle_delayed']			 = 'Відкладено';
+$_['text_settle_multi']				 = 'Множинний';
+$_['text_ip_message']				 = 'Перш ніж йти в реальний режим, вам потрібно надати ваш IP-адрес сервера вашому менеджеру облікового запису Globalpay';
+$_['text_payment_info']				 = 'Інформація про оплату';
+$_['text_capture_status']			 = 'Оплата забезпечена';
+$_['text_void_status']				 = 'Оплата скасована';
+$_['text_rebate_status']			 = 'Оплата повернута';
+$_['text_order_ref']				 = 'Посилання на замовлення';
+$_['text_order_total']				 = 'Загальна сума авторизована';
+$_['text_total_captured']			 = 'Загальна сума захоплена';
+$_['text_transactions']				 = 'Транзакції';
+$_['text_confirm_void']				 = 'Ви впевнені, що хочете скасувати оплату?';
+$_['text_confirm_capture']			 = 'Ви впевнені, що хочете забезпечити оплату?';
+$_['text_confirm_rebate']			 = 'Ви впевнені, що хочете повернути оплату?';
 $_['text_globalpay_remote']			 = '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_void']                      = 'Void';
-$_['text_payment']                   = 'Payment';
-$_['text_rebate']                    = 'Rebate';
+$_['text_void']                      = 'Скасувати';
+$_['text_payment']                   = 'Оплата';
+$_['text_rebate']                    = 'Повернення';
 
-// Column
-$_['text_column_amount']			 = 'Amount';
-$_['text_column_type']				 = 'Type';
-$_['text_column_date_added']		 = 'Created';
+// Колонка
+$_['text_column_amount']			 = 'Сума';
+$_['text_column_type']				 = 'Тип';
+$_['text_column_date_added']		 = 'Дата додана';
 
-// Entry
-$_['entry_merchant_id']				 = 'Merchant ID';
-$_['entry_secret']					 = 'Shared secret';
-$_['entry_rebate_password']			 = 'Rebate password';
-$_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Sort order';
-$_['entry_geo_zone']				 = 'Geo zone';
-$_['entry_status']					 = 'Status';
-$_['entry_debug']					 = 'Debug logging';
-$_['entry_auto_settle']				 = 'Settlement type';
-$_['entry_tss_check']				 = 'TSS checks';
-$_['entry_card_data_status']		 = 'Card info logging';
-$_['entry_3d']						 = 'Enable 3D secure';
-$_['entry_liability_shift']			 = 'Accept non-liability shifting scenarios';
-$_['entry_status_success_settled']	 = 'Success - settled';
-$_['entry_status_success_unsettled'] = 'Success - not settled';
-$_['entry_status_decline']			 = 'Decline';
-$_['entry_status_decline_pending']	 = 'Decline - offline auth';
-$_['entry_status_decline_stolen']	 = 'Decline - lost or stolen card';
-$_['entry_status_decline_bank']		 = 'Decline - bank error';
-$_['entry_status_void']				 = 'Voided';
-$_['entry_status_rebate']			 = 'Rebated';
+// Введення
+$_['entry_merchant_id']				 = 'Ідентифікатор продавця (Merchant ID)';
+$_['entry_secret']					 = 'Спільний секрет (Shared secret)';
+$_['entry_rebate_password']			 = 'Пароль повернення (Rebate password)';
+$_['entry_total']					 = 'Загальна сума';
+$_['entry_sort_order']				 = 'Порядок сортування';
+$_['entry_geo_zone']				 = 'Геозона';
+$_['entry_status']					 = 'Статус';
+$_['entry_debug']					 = 'Запис відладки';
+$_['entry_auto_settle']				 = 'Тип розрахунку';
+$_['entry_tss_check']				 = 'Перевірка TSS';
+$_['entry_card_data_status']		 = 'Логування даних картки';
+$_['entry_3d']						 = 'Увімкнути 3D-захист';
+$_['entry_liability_shift']			 = 'Приймати сценарії без перенесення відповідальності';
+$_['entry_status_success_settled']	 = 'Успіх - закріплено';
+$_['entry_status_success_unsettled'] = 'Успіх - не закріплено';
+$_['entry_status_decline']			 = 'Відхилено';
+$_['entry_status_decline_pending']	 = 'Відхилено - офлайн авторизація';
+$_['entry_status_decline_stolen']	 = 'Відхилено - втрата або крадіжка картки';
+$_['entry_status_decline_bank']		 = 'Відхилено - помилка банку';
+$_['entry_status_void']				 = 'Скасовано';
+$_['entry_status_rebate']			 = 'Повернено';
 
-// Help
-$_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
-$_['help_card_select']				 = 'Ask the user to choose thier card type before they are redirected';
-$_['help_notification']				 = 'You need to supply this URL to Globalpay to get payment notifications';
-$_['help_debug']					 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise.';
-$_['help_liability']				 = 'Accepting liability means you will still accept payments when a user fails 3D secure.';
-$_['help_card_data_status']			 = 'Logs last 4 cards digits, expire, name, type and issuing bank information';
+// Допомога
+$_['help_total']					 = 'Загальна сума замовлення, при досягненні якої цей метод оплати стає активним';
+$_['help_card_select']				 = 'Попросіть користувача вибрати тип їх картки перед переадресацією';
+$_['help_notification']				 = 'Вам потрібно надати цей URL-адресу Globalpay для отримання повідомлень про оплату';
+$_['help_debug']					 = 'Увімкнення відладки буде записувати чутливі дані в журнал. Ви повинні завжди вимикати це, якщо вас не просять зробити інакше';
+$_['help_liability']				 = 'Прийняття відповідальності означає, що ви все одно приймаєте платежі, коли користувач не пройшов 3D-захист';
+$_['help_card_data_status']			 = 'Реєструє останні 4 цифри картки, строк дії, ім\'я, тип і банк емітент';
 
-// Tab
-$_['tab_api']					     = 'API Details';
-$_['tab_account']				     = 'Accounts';
-$_['tab_order_status']				 = 'Order Status';
-$_['tab_payment']					 = 'Payment Settings';
+// Вкладка
+$_['tab_api']					     = 'Деталі API';
+$_['tab_account']				     = 'Облікові записи';
+$_['tab_order_status']				 = 'Статуси замовлення';
+$_['tab_payment']					 = 'Налаштування оплати';
 
-// Button
-$_['button_capture']				 = 'Capture';
-$_['button_rebate']					 = 'Rebate / refund';
-$_['button_void']					 = 'Void';
+// Кнопка
+$_['button_capture']				 = 'Захопити';
+$_['button_rebate']					 = 'Повернути / відмінити';
+$_['button_void']					 = 'Скасувати';
 
-// Error
-$_['error_merchant_id']				 = 'Merchant ID is required';
-$_['error_secret']					 = 'Shared secret is required';
+// Помилка
+$_['error_merchant_id']				 = 'Ідентифікатор продавця (Merchant ID) обов\'язковий';
+$_['error_secret']					 = 'Спільний секрет (Shared secret) обов\'язковий';

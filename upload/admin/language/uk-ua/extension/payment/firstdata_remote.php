@@ -1,92 +1,92 @@
 <?php
-// Heading
-$_['heading_title']					 = 'First Data EMEA Web Service API';
+// Заголовок
+$_['heading_title']				 = 'First Data EMEA Web Service API';
 
-// Text
+// Текст
 $_['text_firstdata_remote']			 = '<img src="view/image/payment/firstdata.png" alt="First Data" title="First Data" style="border: 1px solid #EEEEEE;" />';
-$_['text_extension']					 = 'Extensions';
-$_['text_success']					 = 'Success: You have modified First Data account details!';
-$_['text_edit']                      = 'Edit First Data EMEA Web Service API';
-$_['text_card_type']				 = 'Card type';
-$_['text_enabled']					 = 'Enabled';
-$_['text_merchant_id']				 = 'Store ID';
-$_['text_subaccount']				 = 'Subaccount';
-$_['text_user_id']					 = 'User ID';
-$_['text_capture_ok']				 = 'Capture was successful';
-$_['text_capture_ok_order']			 = 'Capture was successful, order status updated to success - settled';
-$_['text_refund_ok']				 = 'Refund was successful';
-$_['text_refund_ok_order']			 = 'Refund was successful, order status updated to refunded';
-$_['text_void_ok']					 = 'Void was successful, order status updated to voided';
-$_['text_settle_auto']				 = 'Sale';
-$_['text_settle_delayed']			 = 'Pre auth';
+$_['text_extension']					 = 'Розширення';
+$_['text_success']					 = 'Успіх: Ви внесли зміни в налаштування облікового запису First Data!';
+$_['text_edit']                      = 'Редагувати First Data EMEA Web Service API';
+$_['text_card_type']				 = 'Тип картки';
+$_['text_enabled']					 = 'Увімкнено';
+$_['text_merchant_id']				 = 'Ідентифікатор магазину';
+$_['text_subaccount']				 = 'Субакаунт';
+$_['text_user_id']					 = 'Ідентифікатор користувача';
+$_['text_capture_ok']				 = 'Захоплення було успішним';
+$_['text_capture_ok_order']			 = 'Захоплення було успішним, статус замовлення оновлено на успішно - виконано';
+$_['text_refund_ok']				 = 'Повернення було успішним';
+$_['text_refund_ok_order']			 = 'Повернення було успішним, статус замовлення оновлено на повернено';
+$_['text_void_ok']					 = 'Скасування було успішним, статус замовлення оновлено на скасовано';
+$_['text_settle_auto']				 = 'Продаж';
+$_['text_settle_delayed']			 = 'Попередній авторизації';
 $_['text_mastercard']				 = 'Mastercard';
 $_['text_visa']						 = 'Visa';
 $_['text_diners']					 = 'Diners';
 $_['text_amex']						 = 'American Express';
 $_['text_maestro']					 = 'Maestro';
-$_['text_payment_info']				 = 'Payment information';
-$_['text_capture_status']			 = 'Payment captured';
-$_['text_void_status']				 = 'Payment voided';
-$_['text_refund_status']			 = 'Payment refunded';
-$_['text_order_ref']				 = 'Order ref';
-$_['text_order_total']				 = 'Total authorised';
-$_['text_total_captured']			 = 'Total captured';
-$_['text_transactions']				 = 'Transactions';
-$_['text_column_amount']			 = 'Amount';
-$_['text_column_type']				 = 'Type';
-$_['text_column_date_added']		 = 'Created';
-$_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
-$_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
-$_['text_confirm_refund']			 = 'Are you sure you want to refund the payment?';
-$_['text_void']                      = 'Void';
-$_['text_payment']                   = 'Payment';
-$_['text_refund']                    = "Refund";
+$_['text_payment_info']				 = 'Інформація про оплату';
+$_['text_capture_status']			 = 'Оплата захоплено';
+$_['text_void_status']				 = 'Платіж скасовано';
+$_['text_refund_status']			 = 'Платіж повернуто';
+$_['text_order_ref']				 = 'Посилання на замовлення';
+$_['text_order_total']				 = 'Всього авторизовано';
+$_['text_total_captured']			 = 'Всього захоплено';
+$_['text_transactions']				 = 'Транзакції';
+$_['text_column_amount']			 = 'Сума';
+$_['text_column_type']				 = 'Тип';
+$_['text_column_date_added']		 = 'Створено';
+$_['text_confirm_void']				 = 'Ви впевнені, що хочете скасувати платіж?';
+$_['text_confirm_capture']			 = 'Ви впевнені, що хочете захопити платіж?';
+$_['text_confirm_refund']			 = 'Ви впевнені, що хочете повернути платіж?';
+$_['text_void']                      = 'Скасування';
+$_['text_payment']                   = 'Оплата';
+$_['text_refund']                    = 'Повернення';
 
-// Entry
-$_['entry_certificate_path']		 = 'Certificate path';
-$_['entry_certificate_key_path']	 = 'Private key path';
-$_['entry_certificate_key_pw']		 = 'Private key password';
-$_['entry_certificate_ca_path']		 = 'CA path';
-$_['entry_merchant_id']				 = 'Store ID';
-$_['entry_user_id']					 = 'User ID';
-$_['entry_password']				 = 'Password';
-$_['entry_total']					 = 'Total';
-$_['entry_sort_order']				 = 'Sort order';
-$_['entry_geo_zone']				 = 'Geo zone';
-$_['entry_status']					 = 'Status';
-$_['entry_debug']					 = 'Debug logging';
-$_['entry_auto_settle']				 = 'Settlement type';
-$_['entry_status_success_settled']	 = 'Success - settled';
-$_['entry_status_success_unsettled'] = 'Success - not settled';
-$_['entry_status_decline']			 = 'Decline';
-$_['entry_status_void']				 = 'Voided';
-$_['entry_status_refund']			 = 'Refunded';
-$_['entry_enable_card_store']		 = 'Enable card storage tokens';
-$_['entry_cards_accepted']			 = 'Card types accepted';
+// Введення
+$_['entry_certificate_path']		 = 'Шлях до сертифіката';
+$_['entry_certificate_key_path']	 = 'Шлях до приватного ключа';
+$_['entry_certificate_key_pw']		 = 'Пароль приватного ключа';
+$_['entry_certificate_ca_path']		 = 'Шлях до сертифіката CA';
+$_['entry_merchant_id']				 = 'Ідентифікатор магазину';
+$_['entry_user_id']					 = 'Ідентифікатор користувача';
+$_['entry_password']				 = 'Пароль';
+$_['entry_total']					 = 'Загальна сума';
+$_['entry_sort_order']				 = 'Порядок сортування';
+$_['entry_geo_zone']				 = 'Геозона';
+$_['entry_status']					 = 'Статус';
+$_['entry_debug']					 = 'Ведення журналу налагодження';
+$_['entry_auto_settle']				 = 'Тип розрахунку';
+$_['entry_status_success_settled']	 = 'Успіх - виконано';
+$_['entry_status_success_unsettled'] = 'Успіх - не виконано';
+$_['entry_status_decline']			 = 'Відхилено';
+$_['entry_status_void']				 = 'Скасовано';
+$_['entry_status_refund']			 = 'Повернуто';
+$_['entry_enable_card_store']		 = 'Увімкнути збереження ідентифікаторів карток';
+$_['entry_cards_accepted']			 = 'Приймаються типи карток';
 
-// Help
-$_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
-$_['help_certificate']				 = 'Certificates and private keys should be stored outside of your public web folders';
-$_['help_card_select']				 = 'Ask the user to choose thier card type before they are redirected';
-$_['help_notification']				 = 'You need to supply this URL to First Data to get payment notifications';
-$_['help_debug']					 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise .';
-$_['help_settle']					 = 'If you use pre-auth you must complete a post-auth action within 3-5 days otherwise your transaction will be dropped';
+// Допомога
+$_['help_total']					 = 'Загальна сума замовлення, при якій цей спосіб оплати стає активним';
+$_['help_certificate']				 = 'Сертифікати та приватні ключі повинні зберігатися поза публічними теками веб-сервера';
+$_['help_card_select']				 = 'Попросити користувача вибрати тип своєї картки перед перенаправленням';
+$_['help_notification']				 = 'Вам потрібно надати цей URL-адрес First Data для отримання сповіщень про оплату';
+$_['help_debug']					 = 'Увімкнення режиму налагодження записуватиме чутливі дані у файл журналу. Ви повинні завжди вимикати його, якщо не отримали інших вказівок.';
+$_['help_settle']					 = 'Якщо ви використовуєте попередню авторизацію, ви повинні завершити дію після авторизації протягом 3-5 днів, інакше вашу транзакцію видалять';
 
-// Tab
-$_['tab_account']					 = 'API info';
-$_['tab_order_status']				 = 'Order status';
-$_['tab_payment']					 = 'Payment settings';
+// Вкладка
+$_['tab_account']					 = 'Інформація про API';
+$_['tab_order_status']				 = 'Статуси замовлення';
+$_['tab_payment']					 = 'Налаштування оплати';
 
-// Button
-$_['button_capture']				 = 'Capture';
-$_['button_refund']					 = 'Refund';
-$_['button_void']					 = 'Void';
+// Кнопка
+$_['button_capture']				 = 'Захопити';
+$_['button_refund']					 = 'Повернути';
+$_['button_void']					 = 'Скасувати';
 
-// Error
-$_['error_merchant_id']				 = 'Store ID is required';
-$_['error_user_id']					 = 'User ID is required';
-$_['error_password']				 = 'Password is required';
-$_['error_certificate']				 = 'Certificate path is required';
-$_['error_key']						 = 'Certificate key is required';
-$_['error_key_pw']					 = 'Certificate key password is required';
-$_['error_ca']						 = 'Certificate Authority (CA) is required';
+// Помилка
+$_['error_merchant_id']				 = 'Ідентифікатор магазину є обов’язковим';
+$_['error_user_id']					 = 'Ідентифікатор користувача є обов’язковим';
+$_['error_password']				 = 'Пароль є обов’язковим';
+$_['error_certificate']				 = 'Шлях до сертифіката є обов’язковим';
+$_['error_key']						 = 'Приватний ключ сертифіката є обов’язковим';
+$_['error_key_pw']					 = 'Пароль приватного ключа є обов’язковим';
+$_['error_ca']						 = 'Сертифікат авторитета (CA) є обов’язковим';

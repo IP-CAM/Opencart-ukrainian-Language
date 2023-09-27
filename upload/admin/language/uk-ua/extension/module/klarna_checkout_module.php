@@ -1,13 +1,13 @@
 <?php
-// Heading
-$_['heading_title']	   = 'Klarna Checkout';
+// Заголовок
+$_['heading_title']    = 'Klarna Checkout';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']	   = 'Success: You have modified module Klarna Checkout!';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль Klarna Checkout!';
 
-//Entry
-$_['entry_status']	   = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-//Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Klarna Checkout module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля Klarna Checkout!';

@@ -1,18 +1,18 @@
 <?php
-// Heading
-$_['heading_title']    = 'World Map';
+// Заголовок
+$_['heading_title']    = 'Світова карта';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard map!';
-$_['text_edit']        = 'Edit Dashboard Map';
-$_['text_order']       = 'Orders';
-$_['text_sale']        = 'Sales';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: ви внесли зміни до блоку карти на панелі інструментів!';
+$_['text_edit']        = 'Редагувати блок карти на панелі інструментів';
+$_['text_order']       = 'Замовлення';
+$_['text_sale']        = 'Продажі';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+// Введення
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
+$_['entry_width']      = 'Ширина';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard map!';
+// Помилка
+$_['error_permission'] = 'Попередження: у вас немає дозволу на зміну блоку карти на панелі інструментів!';

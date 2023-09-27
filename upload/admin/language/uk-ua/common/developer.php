@@ -1,25 +1,25 @@
 <?php
-// Heading
-$_['heading_title']    = 'Developer Settings';
+// Заголовок
+$_['heading_title']    = 'Налаштування розробника';
 
-// Text
-$_['text_success']     = 'Success: You have modified developer settings!';
-$_['text_theme']       = 'theme';
+// Текст
+$_['text_success']     = 'Успішно: ви змінили налаштування розробника!';
+$_['text_theme']       = 'тему';
 $_['text_sass']        = 'SASS';
-$_['text_cache']       = 'Success: You have cleared the %s cache!';
+$_['text_cache']       = 'Успішно: ви очистили кеш %s!';
 
-// Column
-$_['column_component'] = 'Component';
-$_['column_action']    = 'Action';
+// Колонка
+$_['column_component'] = 'Компонент';
+$_['column_action']    = 'Дія';
 
-// Entry
-$_['entry_theme']      = 'Theme';
+// Поле
+$_['entry_theme']      = 'Тема';
 $_['entry_sass']       = 'SASS';
-$_['entry_cache']      = 'Cache';
+$_['entry_cache']      = 'Кеш';
 
-// Button
-$_['button_on']        = 'On';
-$_['button_off']       = 'Off';
+// Кнопка
+$_['button_on']        = 'Увімкнути';
+$_['button_off']       = 'Вимкнути';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify developer settings!';
+// Помилка
+$_['error_permission'] = 'Попередження: у вас немає прав для зміни налаштувань розробника!';

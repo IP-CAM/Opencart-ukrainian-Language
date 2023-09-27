@@ -1,17 +1,17 @@
 <?php
-// Heading
-$_['heading_title']    = 'People Online';
+// Заголовок
+$_['heading_title']    = 'Люди в мережі';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified dashboard online!';
-$_['text_edit']        = 'Edit Dashboard Online';
-$_['text_view']        = 'View more...';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: ви внесли зміни до блоку "Люди в мережі" на панелі інструментів!';
+$_['text_edit']        = 'Редагувати блок "Люди в мережі" на панелі інструментів';
+$_['text_view']        = 'Детальніше...';
 
-// Entry
-$_['entry_status']     = 'Status';
-$_['entry_sort_order'] = 'Sort Order';
-$_['entry_width']      = 'Width';
+// Введення
+$_['entry_status']     = 'Статус';
+$_['entry_sort_order'] = 'Порядок сортування';
+$_['entry_width']      = 'Ширина';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard online!';
+// Помилка
+$_['error_permission'] = 'Попередження: у вас немає дозволу на зміну блоку "Люди в мережі" на панелі інструментів!';

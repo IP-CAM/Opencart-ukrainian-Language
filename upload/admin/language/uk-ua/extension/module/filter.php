@@ -1,14 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Filter';
+// Заголовок
+$_['heading_title']    = 'Фільтр';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified filter module!';
-$_['text_edit']        = 'Edit Filter Module';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успіх: Ви змінили модуль "Фільтр"!';
+$_['text_edit']        = 'Редагувати модуль "Фільтр"';
 
-// Entry
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify filter module!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну модуля "Фільтр"!';

@@ -1,75 +1,76 @@
 <?php
-// Heading
-$_['heading_title']				= 'eWAY Payment';
+// Заголовок
+$_['heading_title']				= 'Оплата через eWAY';
 
-// Text
-$_['text_extension']			= 'Extensions';
-$_['text_success']				= 'Success: You have modified your eWAY details!';
-$_['text_edit']					= 'Edit eWAY';
+// Текст
+$_['text_extension']			= 'Розширення';
+$_['text_success']				= 'Успіх: Ви змінили ваші налаштування eWAY!';
+$_['text_edit']					= 'Редагувати eWAY';
 $_['text_eway']					= '<a target="_BLANK" href="http://www.eway.com.au/"><img src="view/image/payment/eway.png" alt="eWAY" title="eWAY" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_authorisation']		= 'Authorisation';
-$_['text_sale']					= 'Sale';
-$_['text_transparent']			= 'Transparent Redirect (payment form on site)';
-$_['text_iframe']				= 'IFrame (payment form in window)';
-$_['text_connect_eway']	        = 'eWAY helps businesses to securely process all major credit cards, with built-in fraud prevention, 24/7 technical support and so much more. <a target="_blank" href="https://myeway.force.com/success/accelerator-signup?pid=4382&pa=0012000000ivcWf">Click Here</a>';
+$_['text_authorisation']		= 'Авторизація';
+$_['text_sale']					= 'Продаж';
+$_['text_transparent']			= 'Прозоре перенаправлення (форма оплати на сайті)';
+$_['text_iframe']				= 'IFrame (форма оплати в вікні)';
+$_['text_connect_eway']	        = 'eWAY допомагає бізнесам безпечно обробляти всі основні кредитні картки, з вбудованою системою запобігання шахрайству, цілодобовою технічною підтримкою та багатьма іншими перевагами. <a target="_blank" href="https://myeway.force.com/success/accelerator-signup?pid=4382&pa=0012000000ivcWf">Клацніть тут</a>';
 $_['text_eway_image']	        = '<a target="_blank" href="https://myeway.force.com/success/accelerator-signup?pid=4382&pa=0012000000ivcWf"><img src="view/image/payment/eway_connect.png" alt="eWAY" title="eWAY" class="img-fluid" /></a>';
 
-// Entry
-$_['entry_paymode']				= 'Payment Mode';
-$_['entry_test']				= 'Test mode';
-$_['entry_order_status']		= 'Order status';
-$_['entry_order_status_refund'] = 'Refunded order status';
-$_['entry_order_status_auth']	= 'Authorised order status';
-$_['entry_order_status_fraud']	= 'Suspected Fraud order status';
-$_['entry_status']				= 'Status';
-$_['entry_username']			= 'eWAY API Key';
-$_['entry_password']			= 'eWAY password';
-$_['entry_payment_type']		= 'Payment Type';
-$_['entry_geo_zone']			= 'Geo Zone';
-$_['entry_sort_order']			= 'Sort order';
-$_['entry_transaction_method']	= 'Transaction Method';
+// Введення
+$_['entry_paymode']				= 'Режим оплати';
+$_['entry_test']				= 'Режим тестування';
+$_['entry_order_status']		= 'Статус замовлення';
+$_['entry_order_status_refund'] = 'Статус замовлення для повернення коштів';
+$_['entry_order_status_auth']	= 'Статус замовлення для авторизації';
+$_['entry_order_status_fraud']	= 'Статус замовлення для підозрілих операцій';
+$_['entry_status']				= 'Стан';
+$_['entry_username']			= 'API-ключ eWAY';
+$_['entry_password']			= 'Пароль eWAY';
+$_['entry_payment_type']		= 'Тип оплати';
+$_['entry_geo_zone']			= 'Геозона';
+$_['entry_sort_order']			= 'Порядок сортування';
+$_['entry_transaction_method']	= 'Метод транзакції';
 
-// Error
-$_['error_permission']			= 'Warning: You do not have permission to modify the eWAY payment module';
-$_['error_username']			= 'eWAY API Key is required!';
-$_['error_password']			= 'eWAY password is required!';
-$_['error_payment_type']		= 'At least one payment type is required!';
+// Помилка
+$_['error_permission']			= 'Попередження: У вас немає дозволу на зміну модуля оплати eWAY';
+$_['error_username']			= 'API-ключ eWAY обов\'язковий!';
+$_['error_password']			= 'Пароль eWAY обов\'язковий!';
+$_['error_payment_type']		= 'Потрібно вибрати хоча б один тип оплати!';
 
-// Help hints
-$_['help_testmode']				= 'Set to Yes to use the eWAY Sandbox.';
-$_['help_username']				= 'Your eWAY API Key from your MYeWAY account.';
-$_['help_password']				= 'Your eWAY API Password from your MYeWAY account.';
-$_['help_transaction_method']	= 'Authorisation is only available for Australian banks';
+// Підказки
+$_['help_testmode']				= 'Встановіть "Так", щоб використовувати режим тестування eWAY.';
+$_['help_username']				= 'Ваш API-ключ eWAY з вашого облікового запису MYeWAY.';
+$_['help_password']				= 'Пароль API eWAY з вашого облікового запису MYeWAY.';
+$_['help_transaction_method']	= 'Авторизація доступна тільки для австралійських банків';
 
-// Order page - payment tab
-$_['text_payment_info']			= 'Payment information';
-$_['text_order_total']			= 'Total authorised';
-$_['text_transactions']			= 'Transactions';
-$_['text_column_transactionid'] = 'eWAY Transaction ID';
-$_['text_column_amount']		= 'Amount';
-$_['text_column_type']			= 'Type';
-$_['text_column_created']		= 'Created';
-$_['text_total_captured']		= 'Total captured';
-$_['text_capture_status']		= 'Payment captured';
-$_['text_void_status']			= 'Payment voided';
-$_['text_refund_status']		= 'Payment refunded';
-$_['text_total_refunded']		= 'Total refunded';
-$_['text_refund_success']		= 'Refund succeeded!';
-$_['text_capture_success']		= 'Capture succeeded!';
-$_['text_refund_failed']		= 'Refund failed: ';
-$_['text_capture_failed']		= 'Capture failed: ';
-$_['text_unknown_failure']		= 'Invalid order or amount';
-$_['text_refund']               = 'Refund';
+// Сторінка замовлення - вкладка оплати
+$_['text_payment_info']			= 'Інформація про оплату';
+$_['text_order_total']			= 'Загальна сума авторизована';
+$_['text_transactions']			= 'Транзакції';
+$_['text_column_transactionid'] = 'ID транзакції eWAY';
+$_['text_column_amount']		= 'Сума';
+$_['text_column_type']			= 'Тип';
+$_['text_column_created']		= 'Створено';
+$_['text_total_captured']		= 'Загальна сума сплачена';
+$_['text_capture_status']		= 'Оплата сплачена';
+$_['text_void_status']			= 'Оплата скасована';
+$_['text_refund_status']		= 'Оплата повернута';
+$_['text_total_refunded']		= 'Загальна сума повернута';
+$_['text_refund_success']		= 'Повернення пройшло успішно!';
+$_['text_capture_success']		= 'Оплата сплачена успішно!';
+$_['text_refund_failed']		= 'Повернення не вдалось: ';
+$_['text_capture_failed']		= 'Сплата не вдалася: ';
+$_['text_unknown_failure']		= 'Недійсне замовлення або сума';
+$_['text_refund']               = 'Повернення';
 
-$_['text_confirm_capture']		= 'Are you sure you want to capture the payment?';
-$_['text_confirm_release']		= 'Are you sure you want to release the payment?';
-$_['text_confirm_refund']		= 'Are you sure you want to refund the payment?';
+$_['text_confirm_capture']		= 'Ви впевнені, що хочете сплатити оплату?';
+$_['text_confirm_release']		= 'Ви впевнені, що хочете скасувати оплату?';
+$_['text_confirm_refund']		= 'Ви впевнені, що хочете повернути оплату?';
 
-$_['text_empty_refund']			= 'Please enter an amount to refund';
-$_['text_empty_capture']		= 'Please enter an amount to capture';
+$_['text_empty_refund']			= 'Будь ласка, введіть суму для повернення';
+$_['text_empty_capture']		= 'Будь ласка, введіть суму для оплати';
 
-$_['btn_refund']				= 'Refund';
-$_['btn_capture']				= 'Capture';
+$_['btn_refund']				= 'Повернути';
+$_['btn_capture']				= 'Сплатити';
+
 
 // Validation Error codes
 $_['text_card_message_V6000']	= 'Undefined Validation Error';

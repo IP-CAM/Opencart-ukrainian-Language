@@ -1,27 +1,27 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title']      = 'Anti-Fraud IP';
 
-// Text
-$_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Success: You have modified Anti-Fraud IP!';
-$_['text_edit']          = 'Edit Anti-Fraud IP';
-$_['text_ip_add']        = 'Add IP Address';
-$_['text_ip_list']       = 'Fraud IP Address List';
+// Текст
+$_['text_extension']     = 'Розширення';
+$_['text_success']       = 'Успішно: Ви змінили Anti-Fraud IP!';
+$_['text_edit']          = 'Редагувати Anti-Fraud IP';
+$_['text_ip_add']        = 'Додати IP-адресу';
+$_['text_ip_list']       = 'Список IP-адрес шахраїв';
 
-// Column
-$_['column_ip']          = 'IP';
-$_['column_total']       = 'Total Accounts';
-$_['column_date_added']  = 'Date Added';
-$_['column_action']      = 'Action';
+// Колонки
+$_['column_ip']          = 'IP-адреса';
+$_['column_total']       = 'Загальна кількість облікових записів';
+$_['column_date_added']  = 'Дата додавання';
+$_['column_action']      = 'Дія';
 
-// Entry
-$_['entry_ip']           = 'IP';
-$_['entry_status']       = 'Status';
-$_['entry_order_status'] = 'Order Status';
+// Поле введення
+$_['entry_ip']           = 'IP-адреса';
+$_['entry_status']       = 'Статус';
+$_['entry_order_status'] = 'Статус замовлення';
 
-// Help
-$_['help_order_status']  = 'Customers that have a banned IP on their accounts will be assigned this order status and will not be allowed to reach the complete status automatically.';
+// Довідка
+$_['help_order_status']  = 'Клієнти, які мають заборонені IP-адреси у своїх облікових записах, отримають цей статус замовлення і не матимуть можливості автоматично досягти статусу "завершено"';
 
-// Error
-$_['error_permission']   = 'Warning: You do not have permission to modify Anti-Fraud IP!';
+// Помилка
+$_['error_permission']   = 'Попередження: У вас немає дозволу на зміну Anti-Fraud IP!';

@@ -1,32 +1,32 @@
 <?php
-// Heading
-$_['heading_title']     = 'Sales Report';
+// Заголовок
+$_['heading_title']     = 'Звіт про продажі';
 
-// Text
-$_['text_extension']    = 'Extensions';
-$_['text_edit']         = 'Edit Sales Report';
-$_['text_success']      = 'Success: You have modified sales report!';
-$_['text_filter']       = 'Filter';
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+// Текст
+$_['text_extension']    = 'Розширення';
+$_['text_edit']         = 'Редагувати звіт про продажі';
+$_['text_success']      = 'Успішно: Ви внесли зміни до звіту про продажі!';
+$_['text_filter']       = 'Фільтр';
+$_['text_year']         = 'Роки';
+$_['text_month']        = 'Місяці';
+$_['text_week']         = 'Тижні';
+$_['text_day']          = 'Дні';
+$_['text_all_status']   = 'Всі стани';
 
-// Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
-$_['column_orders']     = 'No. Orders';
-$_['column_products']   = 'No. Products';
-$_['column_tax']        = 'Tax';
-$_['column_total']      = 'Total';
+// Колонки
+$_['column_date_start'] = 'Початок періоду';
+$_['column_date_end']   = 'Кінець періоду';
+$_['column_orders']     = 'Кількість замовлень';
+$_['column_products']   = 'Кількість товарів';
+$_['column_tax']        = 'Податок';
+$_['column_total']      = 'Загальна сума';
 
-// Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
-$_['entry_group']       = 'Group By';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+// Вхідні дані
+$_['entry_date_start']  = 'Початок періоду';
+$_['entry_date_end']    = 'Кінець періоду';
+$_['entry_group']       = 'Групувати за';
+$_['entry_status']      = 'Статус';
+$_['entry_sort_order']  = 'Порядок сортування';
 
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify sales report!';
+// Помилка
+$_['error_permission']  = 'Попередження: У вас немає дозволу на зміну звіту про продажі!';

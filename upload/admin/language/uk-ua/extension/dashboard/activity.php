@@ -1,32 +1,32 @@
 <?php
-// Heading
-$_['heading_title']                = 'Recent Activity';
+// Заголовок
+$_['heading_title']                = 'Остання активність';
 
-// Text
-$_['text_extension']               = 'Extensions';
-$_['text_success']                 = 'Success: You have modified dashboard activity!';
-$_['text_edit']                    = 'Edit Dashboard Recent Activity';
-$_['text_activity_register']       = '<a href="customer_id=%d">%s</a> registered a new account.';
-$_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> updated their account details.';
-$_['text_activity_password']       = '<a href="customer_id=%d">%s</a> updated their account password.';
-$_['text_activity_reset']          = '<a href="customer_id=%d">%s</a> reset their account password.';
-$_['text_activity_login']          = '<a href="customer_id=%d">%s</a> logged in.';
-$_['text_activity_forgotten']      = '<a href="customer_id=%d">%s</a> has requested a reset password.';
-$_['text_activity_address_add']    = '<a href="customer_id=%d">%s</a> added a new address.';
-$_['text_activity_address_edit']   = '<a href="customer_id=%d">%s</a> updated their address.';
-$_['text_activity_address_delete'] = '<a href="customer_id=%d">%s</a> deleted one of their addresses.';
-$_['text_activity_return_account'] = '<a href="customer_id=%d">%s</a> submitted a product <a href="return_id=%d">return</a>.';
-$_['text_activity_return_guest']   = '%s submitted a product <a href="return_id=%d">return</a>.';
-$_['text_activity_order_account']  = '<a href="customer_id=%d">%s</a> added a <a href="order_id=%d">new order</a>.';
-$_['text_activity_order_guest']    = '%s created a <a href="order_id=%d">new order</a>.';
-$_['text_activity_affiliate_add']  = '<a href="customer_id=%d">%s</a> registered for a affiliate account.';
-$_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> updated their affiliate details.';
-$_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> received commission from an new <a href="order_id=%d">order</a>.';
+// Текст
+$_['text_extension']               = 'Розширення';
+$_['text_success']                 = 'Успіх: ви внесли зміни до активності на панелі інструментів!';
+$_['text_edit']                    = 'Редагувати останню активність на панелі інструментів';
+$_['text_activity_register']       = '<a href="customer_id=%d">%s</a> зареєстрував новий обліковий запис.';
+$_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> оновив свої дані облікового запису.';
+$_['text_activity_password']       = '<a href="customer_id=%d">%s</a> оновив свій пароль облікового запису.';
+$_['text_activity_reset']          = '<a href="customer_id=%d">%s</a> скинув свій пароль облікового запису.';
+$_['text_activity_login']          = '<a href="customer_id=%d">%s</a> увійшов в систему.';
+$_['text_activity_forgotten']      = '<a href="customer_id=%d">%s</a> запитав скидання пароля.';
+$_['text_activity_address_add']    = '<a href="customer_id=%d">%s</a> додав нову адресу.';
+$_['text_activity_address_edit']   = '<a href="customer_id=%d">%s</a> оновив свою адресу.';
+$_['text_activity_address_delete'] = '<a href="customer_id=%d">%s</a> видалив одну зі своїх адрес.';
+$_['text_activity_return_account'] = '<a href="customer_id=%d">%s</a> відправив запит на <a href="return_id=%d">повернення продукту</a>.';
+$_['text_activity_return_guest']   = '%s відправив запит на <a href="return_id=%d">повернення продукту</a>.';
+$_['text_activity_order_account']  = '<a href="customer_id=%d">%s</a> створив <a href="order_id=%d">нове замовлення</a>.';
+$_['text_activity_order_guest']    = '%s створив <a href="order_id=%d">нове замовлення</a>.';
+$_['text_activity_affiliate_add']  = '<a href="customer_id=%d">%s</a> зареєструвався як партнер.';
+$_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> оновив свої дані партнера.';
+$_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> отримав комісію за нове <a href="order_id=%d">замовлення</a>.';
 
-// Entry
-$_['entry_status']                 = 'Status';
-$_['entry_sort_order']             = 'Sort Order';
-$_['entry_width']                  = 'Width';
+// Поле введення
+$_['entry_status']                 = 'Статус';
+$_['entry_sort_order']             = 'Порядок сортування';
+$_['entry_width']                  = 'Ширина';
 
-// Error
-$_['error_permission']             = 'Warning: You do not have permission to modify dashboard activity!';
+// Помилка
+$_['error_permission']             = 'Попередження: у вас немає дозволу на зміну активності на панелі інструментів!';

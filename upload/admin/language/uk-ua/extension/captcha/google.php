@@ -1,19 +1,19 @@
 <?php
-// Heading
+// Заголовок
 $_['heading_title']    = 'Google reCAPTCHA';
 
-// Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Success: You have modified Google reCAPTCHA!';
-$_['text_edit']        = 'Edit Google reCAPTCHA';
-$_['text_signup']      = 'Go to <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> and register your website.';
+// Текст
+$_['text_extension']   = 'Розширення';
+$_['text_success']     = 'Успішно: ви внесли зміни до Google reCAPTCHA!';
+$_['text_edit']        = 'Редагувати Google reCAPTCHA';
+$_['text_signup']      = 'Перейдіть на сторінку <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA</u></a> та зареєструйте свій веб-сайт.';
 
-// Entry
-$_['entry_key']        = 'Site key';
-$_['entry_secret']     = 'Secret key';
-$_['entry_status']     = 'Status';
+// Поле введення
+$_['entry_key']        = 'Ключ сайту (Site key)';
+$_['entry_secret']     = 'Секретний ключ (Secret key)';
+$_['entry_status']     = 'Статус';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google reCAPTCHA!';
-$_['error_key']        = 'Key required!';
-$_['error_secret']     = 'Secret required!';
+// Помилка
+$_['error_permission'] = 'Попередження: у вас немає дозволу на зміну Google reCAPTCHA!';
+$_['error_key']        = 'Необхідно вказати ключ сайту!';
+$_['error_secret']     = 'Необхідно вказати секретний ключ!';

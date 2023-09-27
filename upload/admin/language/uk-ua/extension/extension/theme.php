@@ -1,15 +1,15 @@
 <?php
-// Heading
-$_['heading_title']    = 'Themes';
+// Заголовок
+$_['heading_title']    = 'Теми оформлення';
 
-// Text
-$_['text_success']     = 'Success: You have modified themes!';
-$_['text_list']        = 'Theme List';
+// Текст
+$_['text_success']     = 'Успіх: Ви змінили теми оформлення!';
+$_['text_list']        = 'Список тем оформлення';
 
-// Column
-$_['column_name']      = 'Theme Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+// Колонки
+$_['column_name']      = 'Назва теми оформлення';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Дія';
 
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify themes!';
+// Помилка
+$_['error_permission'] = 'Попередження: У вас немає дозволу на зміну тем оформлення!';
